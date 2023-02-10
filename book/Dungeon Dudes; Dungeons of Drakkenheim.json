@@ -631,28 +631,30 @@
             ]
         }
     ],
-    "bookdata": {
+    "bookData": {
         "id": "DngDkh",
         "source": "DngDkh",
         "data": [
             {
-                "type": "image",
-                "href": {
-                    "type": "external",
-                    "url": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/DngDkh/DngDkh-map.webp"
-                }
+                "type": "section",
+                "name": "Introduction to Drakkenheim",
+                "page": 1,
+                "entries": [
+                    "DRAKKENHEIM IS NO MORE. An eldritch storm of falling stars devastated the city on that woeful eve, leaving behind a meteorite that would have lasting effects.",
+                    "Fifteen years later, Drakkenheim is a dismal urban wasteland contaminated by otherworldly magic and haunted by hideous monsters.",
+                    "Fantastic wealth, lost knowledge, and powerful artifacts lie ready for the taking by adventurers brave or foolish enough to venture into the ruins.", 
+                    "However, even those who survive the dangers of Drakkenheim may not return unmarked by its terrors!"
+                ]
             },
             {
                 "type": "section",
-                "name": "Introduction to Drakkenheim",
-                "id": 0,
-                "page": 4,
+                "name": "Campaign Overview",
+                "page": 1,
                 "entries": [
-                    "DRAKKENHEIM IS NO MORE. An eldritch storm of falling stars devastated the city on that woeful eve, ",
-                    "leaving behind a meteorite that would have lasting effects. Fifteen years later, Drakkenheim is a dismal ",
-                    "urban wasteland contaminated by otherworldly magic and haunted by hideous monsters. Fantastic wealth, ", 
-                    "lost knowledge, and powerful artifacts lie ready for the taking by adventurers brave or foolish enough to ",
-                    "venture into the ruins. However, even those who survive the dangers of Drakkenheim may not return unmarked by its terrors!"
+                    "Dungeons of Drakkenheim is a fantastic adventure set in a gothic renaissance ruined city.",
+                    "The campaign is designed with four player characters in mind, so adjust accordingly for smaller or larger groups.",
+                    "You can play Drakkenheim as a series of loosely-connected exploration quests or an unpredictable narrative filled with faction conflict.",
+                    "The material herein will challenge characters from 1st to 13th level."
                 ]
             }
         ]
