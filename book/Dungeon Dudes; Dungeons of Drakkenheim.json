@@ -1,0 +1,602 @@
+{
+    "_meta": {
+        "sources": [
+            {
+                "json": "DungeonsOfDrakkenheim",
+                "abbreviation": "DoD",
+                "full": "Dungeons of Drakkenheim",
+                "url": "https://ghostfiregaming.com/product/dungeons-of-drakkenheim-pdf/",
+                "authors": [
+                    "Monty Martin",
+                    "Kelly McLaughlin"
+                ],
+                "convertedBy": [
+                    "Luke"
+                ],
+                "color": "875a9e",
+                "version": "1.0"
+            }
+        ]
+    },
+    "book": [
+        {
+            "name": "Dungeons of Drakkenheim",
+            "id": "DoD",
+            "source": "DoD",
+            "coverUrl": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/DoD/DoD-000.jpg",
+            "published": "2022-12-21",
+            "group": "homebrew",
+            "contents": [
+                {
+                    "name": "Introduction to Drakkenheim",
+                    "headers": [
+                        "Campaign Overview",
+                        "Character Creation",
+                        "The Original Campaign"
+                    ],
+                    "ordinal": {
+                        "type": "chapter",
+                        "identifier": 1
+                    }
+                },
+                {
+                    "name": "Running the Campaign",
+                    "headers": [
+                        "Story Overview",
+                        "Adventure Flow Chart",
+                        "Character Advancement",
+                        "Fall of House Von Kessel",
+                        "Origins of the Meteor",
+                        "Running Personal Quests",
+                        "Running the Factions",
+                        "Rival Adventurers",
+                        "Starting the Campaign",
+                        "The Road to Drakkenheim"
+                    ],
+                    "ordinal": {
+                        "type": "chapter",
+                        "identifier": 2
+                    }
+                },
+                {
+                    "name": "Factions",
+                    "headers": [
+                        "The Amethyst Academy",
+                        "The Followers of the Falling Fire",
+                        "The Hooded Lanterns",
+                        "Knights of the Silver Order",
+                        "Queen's Men"
+                    ],
+                    "ordinal": {
+                        "type": "chapter",
+                        "identifier": 3
+                    }
+                },
+                {
+                    "name": "Emberwood Village",
+                    "headers": [
+                        "Overview",
+                        "Interactions",
+                        "Area Details",
+                        "Concluding the Chapter"
+                    ],
+                    "ordinal": {
+                        "type": "chapter",
+                        "identifier": 4
+                    }
+                },
+                {
+                    "name": "Exploring Drakkenheim",
+                    "headers": [
+                        "City Overview",
+                        "The Haze",
+                        "Navigating the Ruins",
+                        "Random Encounters",
+                        "Delerium Hunt"
+                    ],
+                    "ordinal": {
+                        "type": "chapter",
+                        "identifier": 5
+                    }
+                },
+                {
+                    "name": "Outside the Walls",
+                    "headers": [
+                        "Overview",
+                        "Black Ivory Inn",
+                        {
+                            "depth": 1,
+                            "header": "Overview"
+                        },
+                        {
+                            "depth": 1,
+                            "header": "Interactions"
+                        },
+                        {
+                            "depth": 1,
+                            "header": "Area Details"
+                        },
+                        {
+                            "depth": 1,
+                            "header": "Developments"
+                        },
+                        "Buckledown Row",
+                        {
+                            "depth": 1,
+                            "header": "Overview"
+                        },
+                        {
+                            "depth": 1,
+                            "header": "Interactions"
+                        },
+                        {
+                            "depth": 1,
+                            "header": "Area Details"
+                        },
+                        {
+                            "depth": 1,
+                            "header": "Developments"
+                        },
+                        "Chapel of Saint Brenna",
+                        {
+                            "depth": 1,
+                            "header": "Overview"
+                        },
+                        {
+                            "depth": 1,
+                            "header": "Interactions"
+                        },
+                        {
+                            "depth": 1,
+                            "header": "Area Details"
+                        },
+                        {
+                            "depth": 1,
+                            "header": "Developments"
+                        },
+                        "Eckerman Mill",
+                        {
+                            "depth": 1,
+                            "header": "Mill Graffiti"
+                        },
+                        "Rat's Nest Tavern",
+                        {
+                            "depth": 1,
+                            "header": "Overview"
+                        },
+                        {
+                            "depth": 1,
+                            "header": "Interactions"
+                        },
+                        {
+                            "depth": 1,
+                            "header": "Area Details"
+                        },
+                        {
+                            "depth": 1,
+                            "header": "Developments"
+                        },
+                        "Reed Manor",
+                        {
+                            "depth": 1,
+                            "header": "Overview"
+                        },
+                        {
+                            "depth": 1,
+                            "header": "Interactions"
+                        },
+                        {
+                            "depth": 1,
+                            "header": "Area Details"
+                        },
+                        {
+                            "depth": 1,
+                            "header": "Developments"
+                        },
+                        "Shrine of Morrigan",
+                        {
+                            "depth": 1,
+                            "header": "Overview"
+                        },
+                        {
+                            "depth": 1,
+                            "header": "Interactions"
+                        },
+                        {
+                            "depth": 1,
+                            "header": "Area Details"
+                        },
+                        {
+                            "depth": 1,
+                            "header": "Developments"
+                        },
+                        "Smithy on the Scar",
+                        {
+                            "depth": 1,
+                            "header": "Overview"
+                        },
+                        {
+                            "depth": 1,
+                            "header": "Interactions"
+                        },
+                        {
+                            "depth": 1,
+                            "header": "Area Details"
+                        },
+                        {
+                            "depth": 1,
+                            "header": "Developments"
+                        },
+                        "Sticks Ferry",
+                        {
+                            "depth": 1,
+                            "header": "Taking the Ferry"
+                        },
+                        {
+                            "depth": 1,
+                            "header": "Ferryman's Treasure"
+                        }
+                    ],
+                    "ordinal": {
+                        "type": "chapter",
+                        "identifier": 6
+                    }
+                },
+                {
+                    "name": "Inside the Walls of Drakkenheim",
+                    "headers": [
+                        "Overview",
+                        "Encounters",
+                        "Area Details",
+                        "Battle of Temple Gate",
+                        "Developments",
+                        "Cosmological Clocktower",
+                        {
+                            "depth": 1,
+                            "header": "Overview"
+                        },
+                        {
+                            "depth": 1,
+                            "header": "Interactions"
+                        },
+                        {
+                            "depth": 1,
+                            "header": "Area Details"
+                        },
+                        {
+                            "depth": 1,
+                            "header": "Developments"
+                        },
+                        "The Crater",
+                        {
+                            "depth": 1,
+                            "header": "Overview"
+                        },
+                        {
+                            "depth": 1,
+                            "header": "Interactions"
+                        },
+                        {
+                            "depth": 1,
+                            "header": "Area Details"
+                        },
+                        {
+                            "depth": 1,
+                            "header": "Developments"
+                        },
+                        "Kleinberg Estate",
+                        {
+                            "depth": 1,
+                            "header": "Overview"
+                        },
+                        {
+                            "depth": 1,
+                            "header": "Interactions"
+                        },
+                        {
+                            "depth": 1,
+                            "header": "Area Details"
+                        },
+                        {
+                            "depth": 1,
+                            "header": "Developments"
+                        },
+                        "Old Town Cistern",
+                        {
+                            "depth": 1,
+                            "header": "Overview"
+                        },
+                        {
+                            "depth": 1,
+                            "header": "Interactions"
+                        },
+                        {
+                            "depth": 1,
+                            "header": "Area Details"
+                        },
+                        {
+                            "depth": 1,
+                            "header": "Developments"
+                        },
+                        "Queen's Park",
+                        {
+                            "depth": 1,
+                            "header": "Overview"
+                        },
+                        {
+                            "depth": 1,
+                            "header": "Interactions"
+                        },
+                        {
+                            "depth": 1,
+                            "header": "Area Details"
+                        },
+                        {
+                            "depth": 1,
+                            "header": "Developments"
+                        },
+                        "Rose Theatre",
+                        {
+                            "depth": 1,
+                            "header": "Overview"
+                        },
+                        {
+                            "depth": 1,
+                            "header": "Interactions"
+                        },
+                        {
+                            "depth": 1,
+                            "header": "Area Details"
+                        },
+                        {
+                            "depth": 1,
+                            "header": "Developments"
+                        },
+                        "Saint Vitruvio's Cathedral",
+                        {
+                            "depth": 1,
+                            "header": "Overview"
+                        },
+                        {
+                            "depth": 1,
+                            "header": "Interactions"
+                        },
+                        {
+                            "depth": 1,
+                            "header": "Area Details"
+                        },
+                        {
+                            "depth": 1,
+                            "header": "Cathedral Catacombs"
+                        },
+                        {
+                            "depth": 2,
+                            "header": "Developments"
+                        },
+                        "Slaughterstone Square",
+                        {
+                            "depth": 1,
+                            "header": "Overview"
+                        },
+                        {
+                            "depth": 1,
+                            "header": "Area Details"
+                        }
+                    ],
+                    "ordinal": {
+                        "type": "chapter",
+                        "identifier": 7
+                    }
+                },
+                {
+                    "name": "Faction Strongholds",
+                    "headers": [
+                        "Camp Dawn",
+                        {
+                            "depth": 1,
+                            "header": "Interactions"
+                        },
+                        {
+                            "depth": 1,
+                            "header": "Area Details"
+                        },
+                        "Court of Thieves",
+                        {
+                            "depth": 1,
+                            "header": "Interactions"
+                        },
+                        {
+                            "depth": 1,
+                            "header": "Area Details"
+                        },
+                        "Drakkenheim Garrison",
+                        {
+                            "depth": 1,
+                            "header": "Interactions"
+                        },
+                        {
+                            "depth": 1,
+                            "header": "Area Details"
+                        },
+                        "Inscrutable Tower",
+                        {
+                            "depth": 1,
+                            "header": "Overview"
+                        },
+                        {
+                            "depth": 1,
+                            "header": "Interactions"
+                        },
+                        {
+                            "depth": 1,
+                            "header": "Area Details"
+                        },
+                        {
+                            "depth": 1,
+                            "header": "Developments"
+                        },
+                        "Saint Selina's Monastery",
+                        {
+                            "depth": 1,
+                            "header": "Interactions"
+                        },
+                        {
+                            "depth": 1,
+                            "header": "Area Details"
+                        }
+                    ],
+                    "ordinal": {
+                        "type": "chapter",
+                        "identifier": 8
+                    }
+                },
+                {
+                    "name": "Castle Drakken",
+                    "headers": [
+                        "Overview",
+                        "Interactions",
+                        "Castle Grounds",
+                        "Approach",
+                        "Main Entrance",
+                        "Throne Room",
+                        "Dungeons of Drakkenheim",
+                        "Developments"
+                    ],
+                    "ordinal": {
+                        "type": "chapter",
+                        "identifier": 9
+                    }
+                },
+                {
+                    "name": "The Fate of Drakkenheim",
+                    "headers": [
+                        "Resolving Personal Quests",
+                        "Defeated Factions",
+                        "Epilogues"
+                    ],
+                    "ordinal":{
+                        "type": "chapter",
+                        "identifier": 10
+                    }
+                },
+                {
+                    "name": "Monsters",
+                    "headers": [
+                        "Monster Modifications",
+                        "New Monsters",
+                        {
+                            "depth": 1,
+                            "header": "Delerium Dreg"
+                        },
+                        {
+                            "depth": 1,
+                            "header": "Haze Hulk"
+                        },
+                        {
+                            "depth": 1,
+                            "header": "Protean Abomination"
+                        },
+                        {
+                            "depth": 1,
+                            "header": "Ratlings"
+                        },
+                        {
+                            "depth": 1,
+                            "header": "Warlock of the Rat God"
+                        },
+                        {
+                            "depth": 1,
+                            "header": "Contaminated Elementals"
+                        },
+                        {
+                            "depth": 1,
+                            "header": "Hypnotic Eldrich Blossom"
+                        },
+                        "Legendary Creatures",
+                        {
+                            "depth": 1,
+                            "header": "Amalgamation"
+                        },
+                        {
+                            "depth": 1,
+                            "header": "Crimson Countess"
+                        },
+                        {
+                            "depth": 1,
+                            "header": "Executioner"
+                        },
+                        {
+                            "depth": 1,
+                            "header": "Gravekeeper"
+                        },
+                        {
+                            "depth": 1,
+                            "header": "Lord of the Feast"
+                        },
+                        {
+                            "depth": 1,
+                            "header": "Pale Man"
+                        },
+                        {
+                            "depth": 1,
+                            "header": "Rat Prince"
+                        }
+                    ],
+                    "ordinal":{
+                        "type": "appendix",
+                        "identifier": "a"
+                    }
+                },
+                {
+                    "name": "Nonplayer Characters",
+                    "headers": [
+                        "Lord Commandaer Elias Drexel",
+                        "Eldrick Runeweaver",
+                        "Knight-Captain Theodore Marshal",
+                        "Lucretia Mathias",
+                        "Queen of Thieves",
+                        "Cavalier",
+                        "Chaplain",
+                        "Hedge Mage",
+                        "Scoundrel",
+                        "Urban Ranger"
+                    ],
+                    "ordinal":{
+                        "type":"appendix",
+                        "identifier": "b"
+                    }
+                },
+                {
+                    "name": "Contamination",
+                    "ordinal":{
+                        "type": "appendix",
+                        "identifier": "c"
+                    }
+                },
+                {
+                    "name": "Delerium, Magic & Spells",
+                    "headers":[
+                        "Delerium",
+                        "Spells",
+                        "Magic Items",
+                        {
+                            "depth": 1,
+                            "header": "Seals of Drakkenheim"
+                        },
+                        {
+                            "depth": 1,
+                            "header": "Relics of Saint Vitruvio"
+                        }
+                    ],
+                    "ordinal":{
+                        "type": "appendix",
+                        "identifier": "d"
+                    }
+                },
+                {
+                    "name": "The World of Drakkenheim"
+                }
+            ]
+        }
+    ]
+}
