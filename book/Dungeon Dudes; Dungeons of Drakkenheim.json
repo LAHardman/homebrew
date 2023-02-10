@@ -3,7 +3,7 @@
         "sources": [
             {
                 "json": "DungeonsOfDrakkenheim",
-                "abbreviation": "DoD",
+                "abbreviation": "DngDkh",
                 "full": "Dungeons of Drakkenheim",
                 "url": "https://ghostfiregaming.com/product/dungeons-of-drakkenheim-pdf/",
                 "authors": [
@@ -21,8 +21,8 @@
     "book": [
         {
             "name": "Dungeons of Drakkenheim",
-            "id": "DoD",
-            "source": "DoD",
+            "id": "DngDkh",
+            "source": "DngDkh",
             "coverUrl": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/DoD/DoD-000.jpg",
             "published": "2022-12-21",
             "group": "homebrew",
@@ -550,7 +550,7 @@
                 {
                     "name": "Nonplayer Characters",
                     "headers": [
-                        "Lord Commandaer Elias Drexel",
+                        "Lord Commander Elias Drexel",
                         "Eldrick Runeweaver",
                         "Knight-Captain Theodore Marshal",
                         "Lucretia Mathias",
