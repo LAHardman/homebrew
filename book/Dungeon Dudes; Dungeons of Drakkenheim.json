@@ -594,9 +594,47 @@
                     }
                 },
                 {
-                    "name": "The World of Drakkenheim"
+                    "name": "The World of Drakkenheim",
+                    "headers":[
+                        "People of the Continent",
+                        "Realms of the Continent",
+                        "Magic and Spellcasters",
+                        "Faith and Religions",
+                        "The Edicts of Lumen",
+                        "The Cosmos"
+                    ],
+                    "ordinal":{
+                        "type":"appendix",
+                        "identifier": "e"
+                    }
+                },
+                {
+                    "name": "Character Backgrounds",
+                    "headers":[
+                        "Continental Nobility",
+                        "Mageborn",
+                        "Devoted Missionary",
+                        "Survivor",
+                        "Treasure Seeker"
+                    ],
+                    "ordinal":{
+                        "type":"appendix",
+                        "identifier": "f"
+                    }
+                },
+                {
+                    "name": "Open Game License"
+                },
+                {
+                    "name": "Thank You"
                 }
             ]
         }
-    ]
+    ],
+    "bookdata": {
+        "id": "DngDkh",
+        "source": "DngDkh",
+        "data": [
+        ]
+    }
 }
