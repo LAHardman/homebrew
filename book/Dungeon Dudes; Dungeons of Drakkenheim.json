@@ -23,7 +23,7 @@
             "name": "Dungeons of Drakkenheim",
             "id": "DngDkh",
             "source": "DngDkh",
-            "coverUrl": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/DoD/DoD-000.jpg",
+            "coverUrl": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/DngDkh/DngDkh-cover.webp",
             "published": "2022-12-21",
             "group": "homebrew",
             "contents": [
@@ -636,15 +636,23 @@
         "source": "DngDkh",
         "data": [
             {
+                "type": "image",
+                "href": {
+                    "type": "external",
+                    "url": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/DngDkh/DngDkh-map.webp"
+                }
+            },
+            {
                 "type": "section",
                 "name": "Introduction to Drakkenheim",
+                "id": 0,
                 "page": 4,
                 "entries": [
-                    "DRAKKENHEIM IS NO MORE. An eldritch storm of falling stars devastated the city on that woeful eve,",
-                    "leaving behind a meteorite that would have lasting effects. Fifteen years later, Drakkenheim is a dismal",
-                    "urban wasteland contaminated by otherworldly magic and haunted by hideous monsters. Fantastic wealth,", 
-                    "lost knowledge, and powerful artifacts lie ready for the taking by adventurers brave or foolish enough",
-                    "to venture into the ruins. However, even those who survive the dangers of Drakkenheim may not return unmarked by its terrors!"
+                    "DRAKKENHEIM IS NO MORE. An eldritch storm of falling stars devastated the city on that woeful eve, ",
+                    "leaving behind a meteorite that would have lasting effects. Fifteen years later, Drakkenheim is a dismal ",
+                    "urban wasteland contaminated by otherworldly magic and haunted by hideous monsters. Fantastic wealth, ", 
+                    "lost knowledge, and powerful artifacts lie ready for the taking by adventurers brave or foolish enough to ",
+                    "venture into the ruins. However, even those who survive the dangers of Drakkenheim may not return unmarked by its terrors!"
                 ]
             }
         ]
