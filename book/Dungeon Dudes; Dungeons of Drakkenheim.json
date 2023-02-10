@@ -2,8 +2,8 @@
     "_meta": {
         "sources": [
             {
-                "json": "DungeonsOfDrakkenheim",
-                "abbreviation": "DngDkh",
+                "json": "DD",
+                "abbreviation": "DD",
                 "full": "Dungeons of Drakkenheim",
                 "url": "https://ghostfiregaming.com/product/dungeons-of-drakkenheim-pdf/",
                 "authors": [
@@ -13,7 +13,7 @@
                 "convertedBy": [
                     "Luke"
                 ],
-                "color": "875a9e",
+                "color": "7b0eab",
                 "version": "1.0"
             }
         ]
@@ -21,8 +21,8 @@
     "book": [
         {
             "name": "Dungeons of Drakkenheim",
-            "id": "DngDkh",
-            "source": "DngDkh",
+            "id": "DD",
+            "source": "DD",
             "coverUrl": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/DngDkh/DngDkh-cover.webp",
             "published": "2022-12-21",
             "group": "homebrew",
@@ -632,14 +632,21 @@
         }
     ],
     "bookData": {
-        "id": "DngDkh",
-        "source": "DngDkh",
+        "id": "DD",
+        "source": "DD",
         "data": [
             {
                 "type": "section",
                 "name": "Introduction to Drakkenheim",
                 "page": 1,
                 "entries": [
+                    {
+                        "type": "image",
+                        "href": {
+                            "type": "external",
+                            "url": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/DngDkh/DngDkh-introduction.webp"
+                        }
+                    },
                     "DRAKKENHEIM IS NO MORE. An eldritch storm of falling stars devastated the city on that woeful eve, leaving behind a meteorite that would have lasting effects.",
                     "Fifteen years later, Drakkenheim is a dismal urban wasteland contaminated by otherworldly magic and haunted by hideous monsters.",
                     "Fantastic wealth, lost knowledge, and powerful artifacts lie ready for the taking by adventurers brave or foolish enough to venture into the ruins.", 
