@@ -903,6 +903,13 @@
 					"name": "Running the Campaign",
 					"id": 2,
 					"entries": [
+						{
+							"type": "image",
+							"href": {
+								"type": "external",
+								"url": "https://raw.githubusercontent.com/LAHardman/homebrew/dungeonsofdrakkenheim/_img/DD/DD-campaign.webp"
+							}
+						},
 						"Dungeons of Drakkenheim is a nonlinear adventure that combines urban exploration and faction conflict, bound together by the personal quests of the player characters. Early in the campaign, your players might closely follow the story overview described below. As they advance further into the city and interact with the factions, their decisions will reshape the story in unpredictable ways.",
 						"This book contains inspiration, guidelines, and tools to help you adjudicate and respond to your player characters' actions as they explore Drakkenheim. Running an exciting and dynamic nonlinear adventure requires sound judgement and good use of logic on your part. You should feel empowered to make changes so your players have a rewarding and challenging experience. Occasionally, you may even need to devise your own material or repurpose adventure hooks, characters, and locations to better suit the changing conditions in your campaign.",
 						{
