@@ -639,7 +639,7 @@
 				{
 					"type": "section",
 					"name": "Introduction to Drakkenheim",
-					"id": 0,
+					"id": 1,
 					"entries": [
 						{
 							"type": "image",
@@ -677,7 +677,7 @@
 									"name": "Broken Realm",
 									"page": 5,
 									"entries": [
-										"Drakkenheim was the cosmopolitan capital of Westemär, ruled by the imperious House von Kessel. A decade of bloody civil war erupted after the city's destruction. The realm was left shattered and the royal line broken. Now, the political order of the wider world lies in shambles, torn apart by religious schism and military conflict, and only a faint hope remains that the city can be rebuilt and the nation restored."
+										"Drakkenheim was the cosmopolitan capital of {@book Westemär|14|Realms of the Continent}, ruled by the imperious {@book House von Kessel|DD|1|Fall of House von Kessel}. A decade of bloody civil war erupted after the city's destruction. The realm was left shattered and the royal line broken. Now, the political order of the wider world lies in shambles, torn apart by religious schism and military conflict, and only a faint hope remains that the city can be rebuilt and the nation restored."
 									]
 								},
 								{
@@ -691,7 +691,7 @@
 											"name": "Hooded Lanterns",
 											"page": 5,
 											"entries": [
-												"Formally known as the 4th Provisional Expeditionary Force to Reclaim the Capital, the Hooded Lanterns are an irregular military drawn up from veterans of the Civil War and remnants of the old Drakkenheim City Watch. Led by the dour Lord Commander Elias Drexel, they wage a guerrilla war against the monsters, bandits, and scavengers who have taken root in their nation's capital. Each has pledged their swords and lives to rebuild Drakkenheim and restore the Realm of Westemär. Several noble houses have set aside their feuds to support the Hooded Lanterns' efforts. These families believe once the city is restored, evidence will emerge revealing the true heir to the throne of Drakkenheim... or enable a cunning house to seize the crown."
+												"Formally known as the 4th Provisional Expeditionary Force to Reclaim the Capital, the {@book Hooded Lanterns|DD|2|The Hooded Lanterns} are an irregular military drawn up from veterans of the Civil War and remnants of the old Drakkenheim City Watch. Led by the dour {@b {@book Lord Commander Elias Drexel|DD|11|Lord Commander Elias Drexel}}, they wage a guerrilla war against the monsters, bandits, and scavengers who have taken root in their nation's capital. Each has pledged their swords and lives to rebuild Drakkenheim and restore the Realm of Westemär. Several noble houses have set aside their feuds to support the Hooded Lanterns' efforts. These families believe once the city is restored, evidence will emerge revealing the true heir to the throne of Drakkenheim... or enable a cunning house to seize the crown."
 											]
 										},
 										{
@@ -699,7 +699,7 @@
 											"name": "Queen's Men",
 											"page": 5,
 											"entries": [
-												"The Queen's Men are a loose affiliation between a hundred gangs of brigands, outlaws, and scoundrels, all of whom owe fealty to the enigmatic Queen of Thieves. These reprobates prey upon the pilgrims, prospectors, and explorers drawn to the city, extort and rob adventurers, smuggle delerium to disreputable clients in distant lands, and plunder the fantastic treasures and incredible wealth left behind in the city. The Queen of Thieves dreams of building an influential and powerful criminal empire forged in the anarchy and lawlessness of the ruins, and conspires against the other factions at every turn."
+												"The {@book Queen's Men|DD|2|The Queen's Men} are a loose affiliation between a hundred gangs of brigands, outlaws, and scoundrels, all of whom owe fealty to the enigmatic {@b {@book Queen of Thieves|DD|11|Queen of Thieves}}. These reprobates prey upon the pilgrims, prospectors, and explorers drawn to the city, extort and rob adventurers, smuggle delerium to disreputable clients in distant lands, and plunder the fantastic treasures and incredible wealth left behind in the city. The {@b {@book Queen of Thieves|DD|11|Queen of Thieves}} dreams of building an influential and powerful criminal empire forged in the anarchy and lawlessness of the ruins, and conspires against the other factions at every turn."
 											]
 										},
 										{
@@ -707,7 +707,7 @@
 											"name": "Knights of the Silver Order",
 											"page": 5,
 											"entries": [
-												"The Knights of the Silver Order are an organization of oathbound paladins and devout warriors sworn to combat supernatural evil, dark magic, and otherworldly incursions. The questing knights normally travel the realms in small bands and companies, and adhere to the Faith of the Sacred Flame, the dominant religion across the continent. They believe delerium is a contaminating blight borne of the darkest chaos, and have resolved to annihilate the corrupted crystals, slay every monster it has created, and hunt down diabolical mages who would wield its power to work evil magic. Now an entire regiment has been dispatched to Drakkenheim to carry out this righteous task, led by Knight-Captain Theodore Marshal."
+												"The {@book Knights of the Silver Order|DD|2|The Knights of the Silver Order} are an organization of oathbound paladins and devout warriors sworn to combat supernatural evil, dark magic, and otherworldly incursions. The questing knights normally travel the realms in small bands and companies, and adhere to the {@book Faith of the Sacred Flame|DD|14|Faith and Religions}, the dominant religion across the continent. They believe delerium is a contaminating blight borne of the darkest chaos, and have resolved to annihilate the corrupted crystals, slay every monster it has created, and hunt down diabolical mages who would wield its power to work evil magic. Now an entire regiment has been dispatched to Drakkenheim to carry out this righteous task, led by {@b {@book Knight-Captain Theodore Marshal|DD|11|Knight-Captain Theodore Marshal}}."
 											]
 										},
 										{
@@ -715,7 +715,7 @@
 											"name": "Followers of the Falling Fire",
 											"page": 5,
 											"entries": [
-												"The annihilation of Drakkenheim incited a serious religious schism within the Faith of the Sacred Flame. A new sect has emerged known as the Followers of the Falling Fire, who adhere to the prophecies of former Flamekeeper Lucretia Mathias. She attests that delerium is a divine gift, not a blight, and that these sacred stones will offer salvation against a greater darkness yet to come. The mainstream clergy have excommunicated Lucretia Mathias and branded her followers as an insane cult with heretical beliefs and blasphemous practices. Even still, masses of devout commonfolk now embark on a dangerous pilgrimage to Drakkenheim to take their place in a divine plan."
+												"The annihilation of Drakkenheim incited a serious religious schism within the {@book Faith of the Sacred Flame|DD|14|Faith and Religions}. A new sect has emerged known as the {@book Followers of the Falling Fire|DD|2|The Followers of the Falling Fire}, who adhere to the prophecies of former Flamekeeper {@b {@book Lucretia Mathias|DD|11|Lucretia Mathias}}. She attests that delerium is a divine gift, not a blight, and that these sacred stones will offer salvation against a greater darkness yet to come. The mainstream clergy have excommunicated {@b {@book Lucretia Mathias|DD|11|Lucretia Mathias}} and branded her followers as an insane cult with heretical beliefs and blasphemous practices. Even still, masses of devout commonfolk now embark on a dangerous pilgrimage to Drakkenheim to take their place in a divine plan."
 											]
 										},
 										{
@@ -723,7 +723,7 @@
 											"name": "Amethyst Academy",
 											"page": 5,
 											"entries": [
-												"The Amethyst Academy is a magical school for sorcerers and wizards, where students learn magic in remote castles and secluded universities. Directed by a shadowy cabal of powerful archmages, the Academy also operates an enterprising mage guild that controls the manufacture of magical wares, and orchestrates an influential arcane syndicate that provides occult counsel to the nobility of the continent. However, the Academy was dealt a terrible blow following Drakkenheim's destruction, as the city was home to their greatest stronghold: the Inscrutable Tower. Archwizard Eldrick Runeweaver leads the Academy's efforts to access the tower and safeguard the secret lore within. Meanwhile, their survey teams conduct ongoing research regarding delerium's supernatural qualities and unknown dangers. The mages plan to harness the crystals' vast energies to craft magical items and power new arcane spells."
+												"The {@book Amethyst Academy|DD|2|The Amethyst Academy} is a magical school for sorcerers and wizards, where students learn magic in remote castles and secluded universities. Directed by a shadowy cabal of powerful archmages, the Academy also operates an enterprising mage guild that controls the manufacture of magical wares, and orchestrates an influential arcane syndicate that provides occult counsel to the nobility of the continent. However, the Academy was dealt a terrible blow following Drakkenheim's destruction, as the city was home to their greatest stronghold: the {@book Inscrutable Tower|DD|7|Inscrutable Tower}. {@b {@book Archwizard Eldrick Runeweaver|DD|11|Eldrick Runeweaver}} leads the Academy's efforts to access the tower and safeguard the secret lore within. Meanwhile, their survey teams conduct ongoing research regarding delerium's supernatural qualities and unknown dangers. The mages plan to harness the crystals' vast energies to craft magical items and power new arcane spells."
 											]
 										}
 									]
@@ -835,7 +835,8 @@
 												"Blighted Landscape. A blight on the natural order envelops Drakkenheim, but the contamination could spread beyond the city. My personal quest is to study the unnatural phenomena found within the most corrupt places in the city: Queen's Park Garden, the underground waterways, and the Crater's Edge. Perhaps then I can develop a way to reverse the contamination.",
 												"Claim the Throne. Though my family has fallen on hard times, we were distantly related to the royal House von Kessel. I may have a claim to the throne of Drakkenheim. My personal quest is to search the cathedral, noble estates, and the castle for sufficient evidence to conclusively prove my inheritance. Then I will take the crown for myself.",
 												"Faction Aspirant. I believe strongly in the ideals and goals of one of the five factions: either the Amethyst Academy, the Followers of the Falling Fire, the Hooded Lanterns, the Knights of the Silver Order, or the Queen's Men. My personal quest is to join the faction, aid their mission, climb the ranks, and rise to a high leadership position within their organization.",
-												"Family Matter. One of my family members or close friends has become mixed up with one of the factions. Perhaps they have foolishly decided to join the organization. Alternatively,they've been taken prisoner by the faction due to some trespass or misunderstanding. Either way, my personal quest is to bring them back home.", "Find a Cure. I have a friend, family member, or loved one who was contaminated by delerium and turned into a monster. They have gone mad, and are lost somewhere in Drakkenheim. My personal quest is to locate them, then discover a way to reverse their horrific transformation.",
+												"Family Matter. One of my family members or close friends has become mixed up with one of the factions. Perhaps they have foolishly decided to join the organization. Alternatively,they've been taken prisoner by the faction due to some trespass or misunderstanding. Either way, my personal quest is to bring them back home.",
+												"Find a Cure. I have a friend, family member, or loved one who was contaminated by delerium and turned into a monster. They have gone mad, and are lost somewhere in Drakkenheim. My personal quest is to locate them, then discover a way to reverse their horrific transformation.",
 												"Lost Heirloom. I used to live in Drakkenheim. My personal quest is to recover a lost heirloom from my old home, which was located somewhere in the Inner City. Perhaps the item is sentimental, valuable only to members of my family. Alternatively it may have magical properties, and I wish to use these powers to aid my own ambitions.",
 												"Monster Slayer. I wish to leave behind a heroic legacy by defeating dread beasts. My personal quest is to slay three of the greatest monsters rumoured to dwell in Drakkenheim, and bring back their heads as trophies. Each must be a notable creature with a challenge rating greater than my own level when I defeat them. My allies can assist me, but I must strike the decisive blow myself!",
 												"Overwhelming Debt. I owe a tremendous debt of 10,000 gold pieces, maybe more. My personal quest is to pay it back by making a fortune in Drakkenheim collecting delerium, plunder, and completing work-for-hire. Meanwhile, I must hide from bounty hunters my creditor send to kill me.",
@@ -900,7 +901,7 @@
 				{
 					"type": "section",
 					"name": "Running the Campaign",
-					"id": 1,
+					"id": 2,
 					"entries": [
 						"Dungeons of Drakkenheim is a nonlinear adventure that combines urban exploration and faction conflict, bound together by the personal quests of the player characters. Early in the campaign, your players might closely follow the story overview described below. As they advance further into the city and interact with the factions, their decisions will reshape the story in unpredictable ways.",
 						"This book contains inspiration, guidelines, and tools to help you adjudicate and respond to your player characters' actions as they explore Drakkenheim. Running an exciting and dynamic nonlinear adventure requires sound judgement and good use of logic on your part. You should feel empowered to make changes so your players have a rewarding and challenging experience. Occasionally, you may even need to devise your own material or repurpose adventure hooks, characters, and locations to better suit the changing conditions in your campaign.",
@@ -920,20 +921,41 @@
 							"name": "Character Advancement",
 							"page": 9,
 							"entries": [
-								"Character advancement in Drakkenheim may be handled by using traditional experience points. In addition to earning XP for defeating monsters, you should award additional experience points (equal to the reward for defeating a level-appropriate monster) whenever characters:",
 								{
 									"type": "list",
-									"columns": 0,
+									"style": "list-no-bullets",
+									"columns": 2,
 									"items": [
-										"Finish a personal quest",
-										"Complete a faction mission",
-										"Slay a legendary monster (either a monster or faction leader)",
-										"Obtain a Seal of Drakkenheim or a Relic of Saint Vitruvio",
-										"Discover secret information about the meteor or Drakkenheim"
+										{
+											"type": "entries",
+											"name": "",
+											"page": 0,
+											"entries": [
+												"Character advancement in Drakkenheim may be handled by using traditional experience points. In addition to earning XP for defeating monsters, you should award additional experience points (equal to the reward for defeating a level-appropriate monster) whenever characters:",
+												{
+													"type": "list",
+													"columns": 0,
+													"items": [
+														"Finish a personal quest",
+														"Complete a faction mission",
+														"Slay a legendary monster (either a monster or faction leader)",
+														"Obtain a Seal of Drakkenheim or a Relic of Saint Vitruvio",
+														"Discover secret information about the meteor or Drakkenheim"
+													]
+												},
+												"Alternatively, you can choose to dispense with tracking experience points and simply decide when the characters gain a level.",
+												"The flowchart opposite shows a possible path characters may take through their adventures in Drakkenheim, along with suggested levels to provide an appropriate challenge for the characters. Use this as a guideline for how fast characters should advance, and award character levels when they complete a personal quest or major faction mission."
+											]
+										},
+										{
+											"type": "image",
+											"href": {
+												"type": "external",
+												"url": "https://raw.githubusercontent.com/LAHardman/homebrew/dungeonsofdrakkenheim/_img/DD/DD-flowchart.webp"
+											}
+										}
 									]
 								},
-								"Alternatively, you can choose to dispense with tracking experience points and simply decide when the characters gain a level.",
-								"The flowchart opposite shows a possible path characters may take through their adventures in Drakkenheim, along with suggested levels to provide an appropriate challenge for the characters. Use this as a guideline for how fast characters should advance, and award character levels when they complete a personal quest or major faction mission.",
 								{
 									"type": "entries",
 									"name": "Deadly Challenges",
