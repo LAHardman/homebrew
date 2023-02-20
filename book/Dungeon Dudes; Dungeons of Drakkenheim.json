@@ -45,8 +45,8 @@
 					"headers": [
 						"Story Overview",
 						"Character Advancement",
-						"Fall of House Von Kessel",
 						"Origins of the Meteor",
+						"Fall of House Von Kessel",
 						"Running Personal Quests",
 						"Running the Factions",
 						"Rival Adventurers",
@@ -736,7 +736,7 @@
 											"entries": [
 												"A dangerous foe, moving almost unseen, it invades your wits and saps your strength when it's needed most"
 											],
-											"by": "Pluto Jackson"
+											"by": "{@b Pluto Jackson}"
 										}
 									]
 								},
@@ -745,8 +745,8 @@
 									"name": "The Haze",
 									"page": 6,
 									"entries": [
-										"There are more hazards in Drakkenheim than monsters and rival factions. A billowing mist filled with glinting multi-coloured motes has settled over the entire city, which adventurers call the Haze.",
-										"It's like the dust never really settled after the meteor fell. Characters gain no benefit from taking a long rest within the Haze. Adventurers should be well-rested before they head into the ruins, as they'll need to escape the city to regain their hit points and spell slots. This effect cannot be circumvented by any mundane equipment, nor bypassed with spells such as rope trick, tiny hut, or similar character abilities. These effects are described in detail in Chapter 5: Exploring Drakkenheim."
+										"There are more hazards in Drakkenheim than monsters and rival factions. A billowing mist filled with glinting multi-coloured motes has settled over the entire city, which adventurers call the {@b Haze}. It's like the dust never really settled after the meteor fell.",
+										"{@b Characters gain no benefit from taking a long rest within the Haze.} Adventurers should be well-rested before they head into the ruins, as they'll need to escape the city to regain their hit points and spell slots. This effect cannot be circumvented by any mundane equipment, nor bypassed with spells such as rope trick, tiny hut, or similar character abilities. These effects are described in detail in {@b {@book Chapter 5: Exploring Drakkenheim|DD|4|The Haze}}."
 									]
 								},
 								{
@@ -754,7 +754,7 @@
 									"name": "Contamination",
 									"page": 6,
 									"entries": [
-										"Characters will also encounter deadly eldritch contamination caused by creatures, delerium, and other magical phenomena in Drakkenheim. Abilities, equipment, and spells that protect against diseases, magic, or poisons do not work against contamination. It cannot be healed naturally, nor readily removed with low-level spells. Player characters will need to work with the factions and find creative solutions to manage these problems during their adventures. The full rules and debilitating effects of contamination are outlined in Appendix C: Contamination."
+										"Characters will also encounter deadly {@b eldritch contamination} caused by creatures, delerium, and other magical phenomena in Drakkenheim. Abilities, equipment, and spells that protect against diseases, magic, or poisons do not work against contamination. It cannot be healed naturally, nor readily removed with low-level spells. Player characters will need to work with the factions and find creative solutions to manage these problems during their adventures. The full rules and debilitating effects of contamination are outlined in {@b {@book Appendix C: Contamination|DD|12}}."
 									]
 								},
 								{
@@ -791,7 +791,7 @@
 							"name": "Character Creation",
 							"page": 6,
 							"entries": [
-								"In a Dungeons of Drakkenheim campaign, the player characters are the heart of the story. Their choices, conflicts, and personal goals could decide the fate of Drakkenheim, if they survive! Below are guidelines for creating a player character ready to take on the dark city. We recommend players and Game Masters collaborate closely during character creation for the best possible results.",
+								"In a {@i Dungeons of Drakkenheim} campaign, the player characters are the heart of the story. Their choices, conflicts, and personal goals could decide the fate of Drakkenheim, if they survive! Below are guidelines for creating a player character ready to take on the dark city. We recommend players and Game Masters collaborate closely during character creation for the best possible results.",
 								{
 									"type": "entries",
 									"name": "Character Options and Backgrounds",
@@ -802,8 +802,8 @@
 											"type": "list",
 											"columns": 1,
 											"items": [
-												"Appendix E: The World of Drakkenheim describes how many character ancestries, religions, martial arts, and magical traditions fit into the wider world.",
-												"Appendix F: Character Backgrounds includes new backgrounds players may use to closely connect their characters to the events, people, and mysteries in Drakkenheim"
+												"{@b {@book Appendix E: The World of Drakkenheim|DD|14}} describes how many character ancestries, religions, martial arts, and magical traditions fit into the wider world.",
+												"{@b {@book Appendix F: Character Backgrounds|DD|15}} includes new backgrounds players may use to closely connect their characters to the events, people, and mysteries in Drakkenheim"
 											]
 										}
 									]
@@ -813,15 +813,15 @@
 									"name": "Personal Quests",
 									"page": 6,
 									"entries": [
-										"A character's core motivation for adventuring in Drakkenheim is represented by their personal quest. This is a specific individual objective for player characters to achieve during the campaign, but players need not reveal their personal quest to each other.",
+										"A character's core motivation for adventuring in Drakkenheim is represented by their personal quest. This is a specific individual objective for player characters to achieve during the campaign, but players need not reveal their {@book personal quest|DD|1|Running Personal Quests} to each other.",
 										"When a character completes their personal quest, they choose one of the following rewards:",
 										{
 											"type": "list",
 											"style": "list-hang",
 											"columns": 1,
 											"items": [
-												"Ability Score Improvement. One ability score of your choice increases by 2, as does your maximum for that score.",
-												"New Feat. You gain a bonus feat of your choice, subject to the GM's approval."
+												"{@b Ability Score Improvement.} One ability score of your choice increases by 2, as does your maximum for that score.",
+												"{@b New Feat.} You gain a bonus {@5etools feat|feats.html} of your choice, subject to the GM's approval."
 											]
 										},
 										"Player characters may select from the quests below, or work with the Game Master to design one:",
@@ -830,18 +830,18 @@
 											"style": "list-hang",
 											"columns": 0,
 											"items": [
-												"Apocalyptic Vision. I have been haunted by visions of the meteor for fifteen years. Every time I sleep, I see it crashing down upon me. My personal quest is to see for myself what lies at the heart of the crater. I must overcome whatever I find there in order to stop these nightmares.",
-												"Arcane Secrets. Forbidden lore lies in Drakkenheim. Several dark wizards living in the ruins have mastered terrible and powerful new magic. The Inscrutable Tower library stands unguarded, filled with spellbooks containing secret arcana. My personal quest is to learn these spells.",
-												"Blighted Landscape. A blight on the natural order envelops Drakkenheim, but the contamination could spread beyond the city. My personal quest is to study the unnatural phenomena found within the most corrupt places in the city: Queen's Park Garden, the underground waterways, and the Crater's Edge. Perhaps then I can develop a way to reverse the contamination.",
-												"Claim the Throne. Though my family has fallen on hard times, we were distantly related to the royal House von Kessel. I may have a claim to the throne of Drakkenheim. My personal quest is to search the cathedral, noble estates, and the castle for sufficient evidence to conclusively prove my inheritance. Then I will take the crown for myself.",
-												"Faction Aspirant. I believe strongly in the ideals and goals of one of the five factions: either the Amethyst Academy, the Followers of the Falling Fire, the Hooded Lanterns, the Knights of the Silver Order, or the Queen's Men. My personal quest is to join the faction, aid their mission, climb the ranks, and rise to a high leadership position within their organization.",
-												"Family Matter. One of my family members or close friends has become mixed up with one of the factions. Perhaps they have foolishly decided to join the organization. Alternatively,they've been taken prisoner by the faction due to some trespass or misunderstanding. Either way, my personal quest is to bring them back home.",
-												"Find a Cure. I have a friend, family member, or loved one who was contaminated by delerium and turned into a monster. They have gone mad, and are lost somewhere in Drakkenheim. My personal quest is to locate them, then discover a way to reverse their horrific transformation.",
-												"Lost Heirloom. I used to live in Drakkenheim. My personal quest is to recover a lost heirloom from my old home, which was located somewhere in the Inner City. Perhaps the item is sentimental, valuable only to members of my family. Alternatively it may have magical properties, and I wish to use these powers to aid my own ambitions.",
-												"Monster Slayer. I wish to leave behind a heroic legacy by defeating dread beasts. My personal quest is to slay three of the greatest monsters rumoured to dwell in Drakkenheim, and bring back their heads as trophies. Each must be a notable creature with a challenge rating greater than my own level when I defeat them. My allies can assist me, but I must strike the decisive blow myself!",
-												"Overwhelming Debt. I owe a tremendous debt of 10,000 gold pieces, maybe more. My personal quest is to pay it back by making a fortune in Drakkenheim collecting delerium, plunder, and completing work-for-hire. Meanwhile, I must hide from bounty hunters my creditor send to kill me.",
-												"Personal Pilgrimage. As an acolyte of the faith, my personal quest is to visit several holy places in the city and perform a sacred ritual before the remains of the martyrs interred within each: the Cathedral of Saint Vitruvio, Saint Selina's Monastery, and the Chapel in Castle Drakken. Through these devoted acts I will understand my place in the divine order.",
-												"Score to Settle. I have come to Drakkenheim to kill one of the faction leaders: either Archwizard Eldrick Runeweaver, Knight-Captain Theodore Marshal, Lord Commander Elias Drexel, Lucretia Mathias, or the Queen of Thieves. Perhaps I seek revenge for a past wrong. Alternatively, I may covet their position and wish to replace them. Either way, my personal quest is to slay them."
+												"{@b Apocalyptic Vision.} I have been haunted by visions of the meteor for fifteen years. Every time I sleep, I see it crashing down upon me. My personal quest is to see for myself what lies at the heart of the crater. I must overcome whatever I find there in order to stop these nightmares.",
+												"{@b Arcane Secrets.} Forbidden lore lies in Drakkenheim. Several dark wizards living in the ruins have mastered terrible and powerful new magic. The Inscrutable Tower library stands unguarded, filled with spellbooks containing secret arcana. My personal quest is to learn these spells.",
+												"{@b Blighted Landscape.} A blight on the natural order envelops Drakkenheim, but the contamination could spread beyond the city. My personal quest is to study the unnatural phenomena found within the most corrupt places in the city: Queen's Park Garden, the underground waterways, and the Crater's Edge. Perhaps then I can develop a way to reverse the contamination.",
+												"{@b Claim the Throne.} Though my family has fallen on hard times, we were distantly related to the royal House von Kessel. I may have a claim to the throne of Drakkenheim. My personal quest is to search the cathedral, noble estates, and the castle for sufficient evidence to conclusively prove my inheritance. Then I will take the crown for myself.",
+												"{@b Faction Aspirant.} I believe strongly in the ideals and goals of one of the five factions: either the Amethyst Academy, the Followers of the Falling Fire, the Hooded Lanterns, the Knights of the Silver Order, or the Queen's Men. My personal quest is to join the faction, aid their mission, climb the ranks, and rise to a high leadership position within their organization.",
+												"{@b Family Matter.} One of my family members or close friends has become mixed up with one of the factions. Perhaps they have foolishly decided to join the organization. Alternatively,they've been taken prisoner by the faction due to some trespass or misunderstanding. Either way, my personal quest is to bring them back home.",
+												"{@b Find a Cure.} I have a friend, family member, or loved one who was contaminated by delerium and turned into a monster. They have gone mad, and are lost somewhere in Drakkenheim. My personal quest is to locate them, then discover a way to reverse their horrific transformation.",
+												"{@b Lost Heirloom.} I used to live in Drakkenheim. My personal quest is to recover a lost heirloom from my old home, which was located somewhere in the Inner City. Perhaps the item is sentimental, valuable only to members of my family. Alternatively it may have magical properties, and I wish to use these powers to aid my own ambitions.",
+												"{@b Monster Slayer.} I wish to leave behind a heroic legacy by defeating dread beasts. My personal quest is to slay three of the greatest monsters rumoured to dwell in Drakkenheim, and bring back their heads as trophies. Each must be a notable creature with a challenge rating greater than my own level when I defeat them. My allies can assist me, but I must strike the decisive blow myself!",
+												"{@b Overwhelming Debt.} I owe a tremendous debt of 10,000 gold pieces, maybe more. My personal quest is to pay it back by making a fortune in Drakkenheim collecting delerium, plunder, and completing work-for-hire. Meanwhile, I must hide from bounty hunters my creditor send to kill me.",
+												"{@b Personal Pilgrimage.} As an acolyte of the faith, my personal quest is to visit several holy places in the city and perform a sacred ritual before the remains of the martyrs interred within each: the Cathedral of Saint Vitruvio, Saint Selina's Monastery, and the Chapel in Castle Drakken. Through these devoted acts I will understand my place in the divine order.",
+												"{@b Score to Settle.} I have come to Drakkenheim to kill one of the faction leaders: either Archwizard Eldrick Runeweaver, Knight-Captain Theodore Marshal, Lord Commander Elias Drexel, Lucretia Mathias, or the Queen of Thieves. Perhaps I seek revenge for a past wrong. Alternatively, I may covet their position and wish to replace them. Either way, my personal quest is to slay them."
 											]
 										}
 									]
@@ -890,8 +890,8 @@
 							"name": "The Original Campaign",
 							"page": 7,
 							"entries": [
-								"The adventure in this book is based on the Dungeons of Drakkenheim live stream campaign broadcast by the Dungeon Dudes which ran from October 2018 to December 2019. It featured Kelly McLaughlin as Sebastian Crowe, Jill Danaitis as Veo Sjena, Joe O'Gorman as Pluto Jackson, and Monty Martin as Game Master.",
-								"You can watch it on the Dungeon Dudes YouTube Channel (www.youtube.com/dungeondudes) and find it on most major podcast platforms. Check it out if you're looking for inspiration for how we ran the adventures in this book, but be warned: spoilers abound! We've also created a wealth of instruction videos for players and Game Masters covering everything about tabletop roleplaying games, from character building to designing campaigns.",
+								"The adventure in this book is based on the {@i Dungeons of Drakkenheim} live stream campaign broadcast by the Dungeon Dudes which ran from October 2018 to December 2019. It featured Kelly McLaughlin as Sebastian Crowe, Jill Danaitis as Veo Sjena, Joe O'Gorman as Pluto Jackson, and Monty Martin as Game Master.",
+								"You can watch it on the Dungeon Dudes YouTube Channel {@link (www.youtube.com/dungeondudes)} and find it on most major podcast platforms. Check it out if you're looking for inspiration for how we ran the adventures in this book, but be warned: spoilers abound! We've also created a wealth of instruction videos for players and Game Masters covering everything about tabletop roleplaying games, from character building to designing campaigns.",
 								"Every major event, location, and non-player character is detailed in this book, and we've included many more completely new ones for you to explore in your own game. In many ways, the original campaign was a playtest for this book, and we've refined and updated several sections since. If you've watched the original series and notice an inconsistency between this book and the show (there are many), the version in this book takes precedence. On the flipside, you should feel empowered to alter, change, and expand the material here, especially if doing so builds stronger connections or better stories for you and your players.",
 								"The events of our original campaign are non-canonical with regards to this book, so several elements of Drakkenheim strongly connected to the original characters have been altered or removed. If you wish, the original “Drakkenforce” characters may appear in your campaign as rival adventurers, but their stories have been set aside herein so your players may take centre stage."
 							]
@@ -910,17 +910,17 @@
 								"url": "https://raw.githubusercontent.com/LAHardman/homebrew/dungeonsofdrakkenheim/_img/DD/DD-campaign.webp"
 							}
 						},
-						"Dungeons of Drakkenheim is a nonlinear adventure that combines urban exploration and faction conflict, bound together by the personal quests of the player characters. Early in the campaign, your players might closely follow the story overview described below. As they advance further into the city and interact with the factions, their decisions will reshape the story in unpredictable ways.",
+						"{@i Dungeons of Drakkenheim} is a nonlinear adventure that combines urban exploration and faction conflict, bound together by the {@book personal quests|DD|1|Running Personal Quests} of the player characters. Early in the campaign, your players might closely follow the story overview described below. As they advance further into the city and interact with the factions, their decisions will reshape the story in unpredictable ways.",
 						"This book contains inspiration, guidelines, and tools to help you adjudicate and respond to your player characters' actions as they explore Drakkenheim. Running an exciting and dynamic nonlinear adventure requires sound judgement and good use of logic on your part. You should feel empowered to make changes so your players have a rewarding and challenging experience. Occasionally, you may even need to devise your own material or repurpose adventure hooks, characters, and locations to better suit the changing conditions in your campaign.",
 						{
 							"type": "entries",
 							"name": "Story Overview",
 							"page": 8,
 							"entries": [
-								"The characters arrive in Drakkenheim to pursue their personal quests or a few freelance missions from friendly contacts in Emberwood Village. They face ravenous ratlings, malfeasant wizards, and rival adventurers in the Outer City Ruins. During their first forays into the city, the characters witness the strange magic of delerium and contend with the mysterious Haze. The threat of contamination makes survival in Drakkenheim difficult and dangerous. The characters may seek assistance and resources from the five factions to accomplish their goals and find a way deeper into the city.",
-								"As the characters learn more about the factions' differing ideologies, the various faction leaders take notice of their progress. Once the characters successfully traverse the City Walls and begin exploring the Inner City Ruins, each leader approaches the characters for help with their objectives. They appeal to the characters' Ideals and Bonds, offer resources and support, and promise crucial assistance with the characters' personal quests.",
-								"However, as the characters collaborate with the factions to advance their mutual goals, they become increasingly entangled in the political machinations between the competing groups. Each organization has a different vision for the future of Drakkenheim, and the tenuous peace won't last much longer. Nevertheless, with the support of one or more of these groups, the characters can explore dangerous Inner City locations such as the Cathedral of Saint Vitruvio, the Inscrutable Tower of the Amethyst Academy, or perhaps even mount an expedition into the crater. Characters may unearth stunning revelations from Drakkenheim's past and recover powerful artifact which threaten the balance of power between the factions. They might even discover how the Haze threatens to engulf the world itself.",
-								"The factions are deeply divided over what must be done to solve these problems. As a result, simmering tensions boil over into outright conflict. As the city streets become a battlefield between the organizations, the faction leaders each demand the characters' loyalty. Now, the characters must decide which factions are their allies, and which are their enemies. Eventually, the unraveling situation may require the characters to act directly against one or more of the factions, who respond with counterstrikes of their own. In turn, the characters may launch major assaults against enemy factions to destroy their strongholds, defeat their leaders, and drive them out of Drakkenheim. As the conflict reaches its zenith, the surviving factions set their master plans into motion, requiring an expedition into Castle Drakken. There, a final showdown will decide the fate of Drakkenheim."
+								"The characters arrive in Drakkenheim to pursue their {@book personal quests|DD|1|Running Personal Quests} or a few freelance missions from friendly contacts in {@book Emberwood Village|DD|3}. They face ravenous ratlings, malfeasant wizards, and rival adventurers in the {@book Outer City Ruins|DD|5}. During their first forays into the city, the characters witness the strange magic of delerium and contend with the mysterious {@book Haze|DD|4|The Haze}. The threat of {@book contamination|DD|12} makes survival in Drakkenheim difficult and dangerous. The characters may seek assistance and resources from the {@book five factions|DD|3} to accomplish their goals and find a way deeper into the city.",
+								"As the characters learn more about the factions' differing ideologies, the various faction leaders take notice of their progress. Once the characters successfully traverse the City Walls and begin exploring the {@book Inner City Ruins|DD|5}, each leader approaches the characters for help with their objectives. They appeal to the characters' Ideals and Bonds, offer resources and support, and promise crucial assistance with the characters' personal quests.",
+								"However, as the characters collaborate with the factions to advance their mutual goals, they become increasingly entangled in the political machinations between the competing groups. Each organization has a different vision for the future of Drakkenheim, and the tenuous peace won't last much longer. Nevertheless, with the support of one or more of these groups, the characters can explore dangerous Inner City locations such as the {@book Cathedral of Saint Vitruvio|DD|6|Saint Vitruvio's Cathedral}, the {@book Inscrutable Tower|DD|7|Inscrutable Tower} of the Amethyst Academy, or perhaps even mount an expedition into {@book the crater|6|The Crater}. Characters may unearth stunning revelations from Drakkenheim's past and recover powerful artifact which threaten the balance of power between the factions. They might even discover how the {@book Haze|DD|4|The Haze} threatens to engulf the world itself.",
+								"The factions are deeply divided over what must be done to solve these problems. As a result, simmering tensions boil over into outright conflict. As the city streets become a battlefield between the organizations, the faction leaders each demand the characters' loyalty. Now, the characters must decide which factions are their allies, and which are their enemies. Eventually, the unraveling situation may require the characters to act directly against one or more of the factions, who respond with counterstrikes of their own. In turn, the characters may launch major assaults against enemy factions to destroy their {@book strongholds|DD|7}, defeat their leaders, and drive them out of Drakkenheim. As the conflict reaches its zenith, the surviving factions set their master plans into motion, requiring an expedition into {@book Castle Drakken|DD|8}. There, a final showdown will decide the {@book fate of Drakkenheim|DD|9}."
 							]
 						},
 						{
@@ -935,18 +935,17 @@
 									"items": [
 										{
 											"type": "entries",
-											"name": "",
-											"page": 0,
+											"page": 9,
 											"entries": [
-												"Character advancement in Drakkenheim may be handled by using traditional experience points. In addition to earning XP for defeating monsters, you should award additional experience points (equal to the reward for defeating a level-appropriate monster) whenever characters:",
+												"Character advancement in Drakkenheim may be handled by using traditional {@book experience points|DMG|8|Experience Points}. In addition to earning XP for defeating monsters, you should award additional experience points (equal to the reward for defeating a level-appropriate monster) whenever characters:",
 												{
 													"type": "list",
 													"columns": 0,
 													"items": [
-														"Finish a personal quest",
-														"Complete a faction mission",
-														"Slay a legendary monster (either a monster or faction leader)",
-														"Obtain a Seal of Drakkenheim or a Relic of Saint Vitruvio",
+														"Finish a {@book personal quests|DD|1|Running Personal Quests}",
+														"Complete a {@book faction mission|DD|2}",
+														"Slay a legendary monster (either a {@book monster|DD|10} or {@book faction leader|DD|11})",
+														"Obtain a {@book {@i Seal of Drakkenheim} or a {@i Relic of Saint Vitruvio}|DD|13|Magic Items}",
 														"Discover secret information about the meteor or Drakkenheim"
 													]
 												},
@@ -976,8 +975,120 @@
 									"name": "Character Death",
 									"page": 9,
 									"entries": [
-										"Characters looking to revive a slain companion have limited options. Few non-player characters are capable of casting the necessary spells, and the expensive material components are rare. Prominent members of the Silver Order and the Followers of the Falling Fire can cast raise dead and other higher level spells. Consult the Faction Boons section in chapter 3 regarding each respective faction for details on what each faction requires. Characters might also seek out the druid of the Shrine of Morrigan (see chapter 6). Finally, spell scrolls of revivify, raise dead, and resurrection may be found as treasure in various locations in the city, usually the chapels and cathedrals. At your option, the characters may find another scroll elsewhere in the ruins.",
-										"Regardless, the players may need to create a replacement character, or play one temporarily. A player may easily create a new arrival to Emberwood Village to replace a slain character, or perhaps be encountered as the lone survivor of another adventuring party. Alternatively, they might play a faction member assigned to the party as a reinforcement."
+										"Characters looking to revive a slain companion have limited options. Few non-player characters are capable of casting the necessary spells, and the expensive material components are rare. Prominent members of the {@book Silver Order|DD|2|Knights of thhe Silver Order} and the {@book Followers of the Falling Fire|DD|2|The Followers of the Falling Fire} can cast {@i {@spell raise dead}} and other higher level spells. Consult the Faction Boons section in {@book chapter 3|DD|2} regarding each respective faction for details on what each faction requires. Characters might also seek out the druid of the {@book Shrine of Morrigan|DD|5|Shrine of Morrigan} (see chapter 6). Finally, {@item spell scroll|DMG|spell scrolls} of {@i {@spell revivify}}, {@i {@spell raise dead}}, and {@i {@spell resurrection}} may be found as treasure in various locations in the city, usually the chapels and cathedrals. At your option, the characters may find another scroll elsewhere in the ruins.",
+										"Regardless, the players may need to create a replacement character, or play one temporarily. A player may easily create a new arrival to {@book Emberwood Village|DD|3} to replace a slain character, or perhaps be encountered as the lone survivor of another adventuring party. Alternatively, they might play a faction member assigned to the party as a reinforcement."
+									]
+								},
+								{
+									"type": "inset",
+									"entries": [
+										{
+											"type": "quote",
+											"entries": [
+												"My best tip for staying alive in Drakkenheim is to just kill everything that moves. No time to ask questions. Hesitation is dangerous."
+											],
+											"by": "Sebastian Crowe"
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Origins of the Meteor",
+							"page": 10,
+							"entries": [
+								{
+									"type": "quote",
+									"entries": [
+										"Magic attracts more magic. Under extraordinarily rare circumstances, magical energies crystallize into delerium. The stones slowly draw more raw magic into the world from distant planes, possible realities, and alternate dimensions. The rate is exponential. Considerably more leakage occurs around vast quantities of delerium. These chaotic energies are inherently destabilizing. Unfocused magic conjures up paradoxical improbabilities at random, leaving behind lingering eldritch contamination. Uncontained, these magical forces manifest as the Haze. More delerium forms within, and so the process accelerates."
+									],
+									"by": "Archwizard Ryan Greymere"
+								},
+								"The meteor left behind vast deposits of {@book delerium|DD|13|Delerium}, enough to manifest an erratic magical field called the {@b {@book Haze|DD|4|The Haze}}. New delerium deposits gradually emerge within the Haze, which causes the affected region to expand slowly over time. Left unchecked, the Haze can overtake an entire world within a few centuries, leaving behind a chaotic landscape of churning madness and wild magic. The infected world cataclysmically shatters when more destructive magic inevitably erupts, sending a hail of delerium-filled comets throughout the cosmos. After hurtling through the Astral Void for eons, some collide with new worlds where the process begins again. Countless worlds have met this fate, the rest are wholly ignorant of the doom that might one day descend upon them.",
+								"If nothing is done to stop the spread, the Haze will fully engulf {@book Westemär|DD|14|Realms of the Continent} in roughly one hundred and fifty years. Once this happens, little hope for reversal remains, and the dread mists will envelop the world two centuries thereafter. Civilization and society collapse into a monster-filled wasteland that catastrophically ruptures about one thousand years later.",
+								"None know the complete truth about the Haze at the outset of the campaign, and little knowledge is revealed via divination magic save mad whispers. Throughout the adventure, player characters may find clues about delerium from which they may develop their own theories and speculations regarding the origins of the meteor. They can learn much by exploring deep into the ruins, especially locations such as the {@book Inscrutable Tower|DD|7|Inscrutable Tower}, the {@book crater|DD|6|The Crater}, and {@book Castle Drakken|DD|8}. Faction leaders and malfeasant wizards might also offer their research and insights to help players along the way."
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Fall of House von Kessel",
+							"page": 10,
+							"entries": [
+								"House von Kessel ruled {@book Westemär|DD|14|Realms of the Continent} from the capital of Drakkenheim for one hundred fifty years. The last monarch, Ulrich IV, inherited a period of relative political stability, and so pursued interests in architecture, education, and carnal affairs instead of politics and warfare. He married a Caspian princess, Lenore, and they had three children: Leonard, Katarina, and Eliza. Ulrich IV was ten years into his reign when the meteor struck Drakkenheim. The King, his wife, and their children were never seen again after that day, but their true fate remains a mystery.",
+								"However, many members of the royal household were not in Drakkenheim when the meteor struck, including the King's younger siblings, Mannfred and Cecilia von Kessel. The two spent vast sums commissioning the clergy of the {@book Sacred Flame|DD|2|Knights of the Silver Order} and the mages of the {@book Amethyst Academy|DD|2|The Amethyst Academy} to use divination magic to discern what happened, but to no avail. They nearly bankrupted themselves by launching multiple large-scale military expeditions attempting to reclaim Drakkenheim, all of which failed. Eventually, Mannfred became convinced further efforts were futile, and proposed he would take up the crown and relocate the capital. However, Cecilia contested the claim, arguing there was no conclusive evidence that confirmed their brother and his children were dead. The nobility was divided over the issue, and a civil war ensued that raged for nearly a decade. As Westemär itself descended into political and financial ruin, Mannfred von Kessel and his children were assassinated in a dramatic betrayal. Cecilia von Kessel herself died unexpectedly only a few days later, leaving behind no heirs of her own. Lacking a clear successor, the Civil War ended with a whimper.",
+								{
+									"type": "entries",
+									"name": "The Royal Family",
+									"page": 10,
+									"entries": [
+										{
+											"type": "image",
+											"href": {
+												"type": "external",
+												"url": "https://raw.githubusercontent.com/LAHardman/homebrew/dungeonsofdrakkenheim/_img/DD/DD-kessel.webp"
+											}
+										},
+										"Since the royal household were recognizable public figures in their lifetimes, any character proficient in History instantly recognizes them in artwork or portraits.",
+										{
+											"type": "list",
+											"items": [
+												"{@b King Ulrich von Kessel IV} was a portly man of average height with a wiry beard and rather unremarkable features, artwork often exaggerates his appearance with a heroic barrel chest, a lush curly beard, and a regal countenance. Stately artwork shows him clad in a royal mantle wearing the Crown of Westemär. Those who knew the King in life remember him as a capable if overindulgent ruler who left most matters of state to his administrators.",
+												"{@b Queen Lenore von Kessel} was a woman in her late thirties; six feet tall with graceful limbs, hair dyed bright orange, and bleached white skin. Her face had chiseled and angular features, and with every gesture she struck a pose. She wore outrageously ornamented gowns and jewelry, including a famous golden necklace set with eleven emeralds.",
+												"{@b Leonard von Kessel} was eighteen years old when the meteor struck, but would be thirty three years old now. Leonard took to military interests at a young age. Artwork often depicts him as an aristocratic young soldier with sandy brown hair wearing a dragon-decorated breastplate and wielding a longsword.",
+												"{@b Katarina von Kessel} was an inquisitive and acrobatic eleven-year-old with wide eyes and auburn hair. She typically wore a frilled shirt, fitted trousers, and cape instead of dresses, and had a penchant for stealing hats. She would now be twenty six years old.",
+												"{@b Eliza von Kessel} was only six years old at the time of the disaster. The button-nosed child was usually dressed in a bonnet and patterned dress. Assuming she survived, she would be twenty one years old today."
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "A Long Lost Heir",
+									"page": 10,
+									"entries": [
+										"None have yet discovered that King Ulrich von Kessel IV and Queen-Consort Lenore von Kessel were both transformed into monsters. Ulrich is now part of the hideous {@book Amalgamation in Castle Drakken|DD|8|Throne Room}, and Lenore has become a {@book mad creature hiding in Queen's Park|DD|6|Queen's Park}. Their children haven't been seen in fifteen years. It's up to you to decide whether or not they survived, and where they might be found.",
+										"Beyond the immediate offspring of Ulrich IV, however, many relatives and cadet branches exist. As such, the House von Kessel family tree has been left intentionally vague so you and your players may freely insert your own player and non-player characters as potential heirs. They need not be one of Ulrich's known children, but instead illegitimate offspring, a grandchild, niece, nephew, or other family relative. The most dramatically compelling possibilities include:",
+										{
+											"type": "list",
+											"items": [
+												"One or more player characters (known or unbeknownst to them)",
+												"A close relative of a player character (offspring, half-sibling, cousin, or niece/nephew)",
+												"The Queen of Thieves or a faction lieutenant (see the NPCs entries for specific ideas)"
+											]
+										},
+										"Furthermore, there is no need for there to be a single surviving heir, or even any at all. Anyone can say they have royal blood. It's another matter to prove it, and gain the support to actually take the crown. Finally, it's possible another noble household could gain sufficient political clout and military power to turn a tenuous claim into a credible one, and simply supplant House von Kessel entirely.",
+										{
+											"type": "entries",
+											"name": "Complications",
+											"page": 12,
+											"entries": [
+												"At the outset of the campaign there is no heir apparent to the throne, nor have any credible claimants to the throne stepped forward. There are many reasons why a potential claimant to the throne hasn't emerged yet. Decades of affairs, disaster, and war have ravaged the public records, and conclusively determining heredity via magical means requires the blood or remains of Ulrich IV. While an heir could possess a locket, signet ring, or some other document, this must be substantiated with something from the ruins to prove their identity and ancestry. Consider introducing one of the following additional complications:",
+												{
+													"type": "list",
+													"items": [
+														"Kept as a long-forgotten prisoner in an iron helmet in the Queen of Thieves' dungeon.",
+														"Grew up adopted; no idea about their true parentage.",
+														"Working as a humble stablehand living in Emberwood Village.",
+														"Secretly hidden and protected by a distant noble house.",
+														"Petrified into a statue in Castle Drakken.",
+														"Accidentally banished to another plane.",
+														"Succumbed to contamination; transformed into a monster.",
+														"Secretly an arcane spellcaster; disinherited under the {@book Edicts of Lumen|DD|14|The Edicts of Lumen}. (See Appendix E)",
+														"Target of an assassination attempt by faction agents; have been hiding since.",
+														"Born from an affair; their birth was kept secret to conceal a scandal."
+													]
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "The Seals of Drakkenheim",
+									"page": 12,
+									"entries": [
+										"These six wondrous items were entrusted to the royal council of Westemär. Each identifies the bearers as important administrative and political figureheads. In addition to their potent magical powers (described in {@book Appendix D|DD|13|Magic Items}), the seals have an important purpose in a special coronation ritual that attunes a new monarch to the Crown of Westemär itself (described in {@book chapter 9|DD|8|Developments). As such, many factions seek these seals, which are thought lost in the ruins. A few are already in the hands of several faction agents however! Here's where you can find them though:"
 									]
 								}
 							]
