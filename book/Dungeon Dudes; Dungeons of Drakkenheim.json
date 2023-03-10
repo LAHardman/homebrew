@@ -1160,173 +1160,173 @@
 							]
 						},
 						{
-							"type": "image",
-							"href": {
-								"type": "external",
-								"url": "https://raw.githubusercontent.com/LAHardman/homebrew/dungeonsofdrakkenheim/_img/DD/DD-running.webp"
-							}
-						},
-						{
-							"type": "list",
-							"style": "list-no-bullets",
-							"columns": 2,
-							"items": [
+							"type": "entries",
+							"name": "Running the Factions",
+							"page": 14,
+							"entries": [
 								{
-									"type": "entries",
-									"name": "Running the Factions",
-									"page": 14,
-									"entries": [
-										"Five factions are struggling to control the ruins of Drakkenheim: {@book the Hooded Lanterns|DD|2|The Hooded Lanterns}, the {@book Queen's Men|DD|2|Queen's Men}, the {@book Knights of the Silver Order|DD|2|Knights of the Silver Order}, {@book the Followers of the Falling Fire|DD|2|The Followers of the Falling Fire}, and {@book the Amethyst Academy|DD|2|The Amethyst Academy}. Each is commanded by a prominent faction leader, but the faction as a whole behaves like a major recurring NPC, except they are composed of many individuals working together who share the same ideology, goals, methods, and resources. {@book Chapter 3: Factions|DD|2} describes the background, objectives, roleplaying traits, major NPCs, and assets of each faction. Using this information, it's up to you to determine how the factions might help or hinder the player characters during their adventures in Drakkenheim.",
-										"Rather than uniting the factions as one against a common foe, the player characters must navigate a fractious web of intrigue, negotiation, sabotage, and violent conflict if they wish to uncover the greatest treasures and secrets in Drakkenheim. Their relationships with each faction will naturally develop as a consequence of the character's choices, but it's ultimately up to them to decide who they want to join and who they will oppose. Thus, each individual faction might become a supportive patron, fierce competitor, close ally, bitter enemy, or anything in between.",
-										"Exploring the most dangerous locations in Drakkenheim is extraordinarily difficult without gaining the support (or inciting the ire) of one or more factions. Correspondingly, the factions need the player characters' help to accomplish their own goals in the city, and offer rewards to their allies and assistance with the characters' personal quests. Conversely, factions that become antagonistic create dynamic problems and new complications throughout the campaign when they use their resources against the characters. Either way, the factions are best played in a reactive manner. Their leaders make firm demands when characters try to negotiate, orchestrate counterstrikes when characters foil their plans, and conduct sabotage when characters oppose their goals.",
-										"Eventually, these interactions may blossom into a full-scale hostility between the factions. Once this occurs, aim to keep each faction in play as long as possible. Don't be afraid of letting the players get in over their heads if they make enemies with more than one faction, either. Your players will find surprising ways to foil the factions, and develop cunning plans when they collaborate with them. Embrace their creativity by responding with new challenges, and rewarding players when they succeed by having their allies recognize their accomplishments. The factions are equipped with the tools to help you escalate tension and raise the stakes of the conflict in interesting ways.",
-										"Many adventure sites provide hooks and missions connected to the factions you may use to prompt the characters to visit each area. Each location also details how the factions could respond to possible events and outcomes that may occur."
-									]
+									"type": "image",
+									"href": {
+										"type": "external",
+										"url": "https://raw.githubusercontent.com/LAHardman/homebrew/dungeonsofdrakkenheim/_img/DD/DD-running.webp"
+									}
 								},
 								{
-									"type": "inset",
-									"entries": [
+									"type": "list",
+									"style": "list-no-bullets",
+									"columns": 2,
+									"items": [
 										{
-											"type": "section",
+											"type": "entries",
+											"entries": [
+												"Five factions are struggling to control the ruins of Drakkenheim: {@book the Hooded Lanterns|DD|2|The Hooded Lanterns}, the {@book Queen's Men|DD|2|Queen's Men}, the {@book Knights of the Silver Order|DD|2|Knights of the Silver Order}, {@book the Followers of the Falling Fire|DD|2|The Followers of the Falling Fire}, and {@book the Amethyst Academy|DD|2|The Amethyst Academy}. Each is commanded by a prominent faction leader, but the faction as a whole behaves like a major recurring NPC, except they are composed of many individuals working together who share the same ideology, goals, methods, and resources. {@book Chapter 3: Factions|DD|2} describes the background, objectives, roleplaying traits, major NPCs, and assets of each faction. Using this information, it's up to you to determine how the factions might help or hinder the player characters during their adventures in Drakkenheim.",
+												"Rather than uniting the factions as one against a common foe, the player characters must navigate a fractious web of intrigue, negotiation, sabotage, and violent conflict if they wish to uncover the greatest treasures and secrets in Drakkenheim. Their relationships with each faction will naturally develop as a consequence of the character's choices, but it's ultimately up to them to decide who they want to join and who they will oppose. Thus, each individual faction might become a supportive patron, fierce competitor, close ally, bitter enemy, or anything in between.",
+												"Exploring the most dangerous locations in Drakkenheim is extraordinarily difficult without gaining the support (or inciting the ire) of one or more factions. Correspondingly, the factions need the player characters' help to accomplish their own goals in the city, and offer rewards to their allies and assistance with the characters' personal quests. Conversely, factions that become antagonistic create dynamic problems and new complications throughout the campaign when they use their resources against the characters. Either way, the factions are best played in a reactive manner. Their leaders make firm demands when characters try to negotiate, orchestrate counterstrikes when characters foil their plans, and conduct sabotage when characters oppose their goals.",
+												"Eventually, these interactions may blossom into a full-scale hostility between the factions. Once this occurs, aim to keep each faction in play as long as possible. Don't be afraid of letting the players get in over their heads if they make enemies with more than one faction, either. Your players will find surprising ways to foil the factions, and develop cunning plans when they collaborate with them. Embrace their creativity by responding with new challenges, and rewarding players when they succeed by having their allies recognize their accomplishments. The factions are equipped with the tools to help you escalate tension and raise the stakes of the conflict in interesting ways.",
+												"Many adventure sites provide hooks and missions connected to the factions you may use to prompt the characters to visit each area. Each location also details how the factions could respond to possible events and outcomes that may occur."
+											]
+										},
+										{
+											"type": "inset",
 											"entries": [
 												{
-													"type": "entries",
-													"name": "Cast of Characters"
+													"type": "section",
+													"entries": [
+														{
+															"type": "entries",
+															"name": "Cast of Characters"
+														}
+													]
+												},
+												{
+													"type": "item",
+													"entries": [
+														"{@b Lord Commander Elias Drexel}",
+														"(grim leader of the Hooded Lanterns)"
+													]
+												},
+												{
+													"type": "item",
+													"entries": [
+														"{@b Captain Ansom Lang}",
+														"(determined Hooded Lanterns Lieutenant)"
+													]
+												},
+												{
+													"type": "item",
+													"entries": [
+														"{@b Lieutenant Petra Lang}",
+														"(hopeful Hooded Lanterns Lieutenant)",
+														"ㅤ"
+													]
+												},
+												{
+													"type": "item",
+													"entries": [
+														"{@b Knight-Captain Theodore Marshal}",
+														"(valiant leader of the Silver Order)"
+													]
+												},
+												{
+													"type": "item",
+													"entries": [
+														"{@b High Flamekeeper Ophelia Reed}",
+														"(devoted Silver Order Lieutenant)"
+													]
+												},
+												{
+													"type": "item",
+													"entries": [
+														"{@b High Flamekeeper Ophelia Reed}",
+														"(devoted Silver Order Lieutenant)",
+														"ㅤ"
+													]
+												},
+												{
+													"type": "item",
+													"entries": [
+														"{@b Archwizard Eldrick Runeweaver}",
+														"(calculating leader of the Amethyst Academy)"
+													]
+												},
+												{
+													"type": "item",
+													"entries": [
+														"{@b River}",
+														"(pragmatic Amethyst Academy Lieutenant)"
+													]
+												},
+												{
+													"type": "item",
+													"entries": [
+														"{@b River}",
+														"(pragmatic Amethyst Academy Lieutenant)",
+														"ㅤ"
+													]
+												},
+												{
+													"type": "item",
+													"entries": [
+														"{@b Lucretia Mathias}",
+														"(mystical prophet of the Falling Fire)"
+													]
+												},
+												{
+													"type": "item",
+													"entries": [
+														"{@b Nathaniel Flint}",
+														"(enthusiastic Falling Fire Lieutenant)",
+														"ㅤ"
+													]
+												},
+												{
+													"type": "item",
+													"entries": [
+														"{@b Queen of Thieves}",
+														"(enigmatic criminal mastermind)"
+													]
+												},
+												{
+													"type": "item",
+													"entries": [
+														"{@b Blackjack Mel}",
+														"(sleazy Queen's Men Lieutenant)",
+														"ㅤ"
+													]
+												},
+												{
+													"type": "item",
+													"entries": [
+														"{@b King Ulrich von Kessel IV}",
+														"(monarch of Drakkenheim, assumed deceased)"
+													]
+												},
+												{
+													"type": "item",
+													"entries": [
+														"{@b Queen-Consort Lenore von Kessel}",
+														"(royal consort, assumed deceased)"
+													]
+												},
+												{
+													"type": "item",
+													"entries": [
+														"{@b Leonard, Katarina, and Eliza von Kessel}",
+														"(royal heirs, fate unknown)"
+													]
 												}
-											]
-										},	
-										{
-											"type": "item",
-											"entries": [
-												"{@b Lord Commander Elias Drexel}",
-												"(grim leader of the Hooded Lanterns)"
-											]
-										},
-										{
-											"type": "item",
-											"entries": [
-												"{@b Captain Ansom Lang}",
-												"(determined Hooded Lanterns Lieutenant)"
-											]
-										},
-										{
-											"type": "item",
-											"entries": [
-												"{@b Lieutenant Petra Lang}",
-												"(hopeful Hooded Lanterns Lieutenant)",
-												"ㅤ"
-											]
-										},
-										{
-											"type": "item",
-											"entries": [
-												"{@b Knight-Captain Theodore Marshal}",
-												"(valiant leader of the Silver Order)"
-											]
-										},
-										{
-											"type": "item",
-											"entries": [
-												"{@b High Flamekeeper Ophelia Reed}",
-												"(devoted Silver Order Lieutenant)"
-											]
-										},
-										{
-											"type": "item",
-											"entries": [
-												"{@b High Flamekeeper Ophelia Reed}",
-												"(devoted Silver Order Lieutenant)",
-												"ㅤ"
-											]
-										},
-										{
-											"type": "item",
-											"entries": [
-												"{@b Archwizard Eldrick Runeweaver}",
-												"(calculating leader of the Amethyst Academy)"
-											]
-										},
-										{
-											"type": "item",
-											"entries": [
-												"{@b River}",
-												"(pragmatic Amethyst Academy Lieutenant)"
-											]
-										},
-										{
-											"type": "item",
-											"entries": [
-												"{@b River}",
-												"(pragmatic Amethyst Academy Lieutenant)",
-												"ㅤ"
-											]
-										},
-										{
-											"type": "item",
-											"entries": [
-												"{@b Lucretia Mathias}",
-												"(mystical prophet of the Falling Fire)"
-											]
-										},
-										{
-											"type": "item",
-											"entries": [
-												"{@b Nathaniel Flint}",
-												"(enthusiastic Falling Fire Lieutenant)",
-												"ㅤ"
-											]
-										},
-										{
-											"type": "item",
-											"entries": [
-												"{@b Queen of Thieves}",
-												"(enigmatic criminal mastermind)"
-											]
-										},
-										{
-											"type": "item",
-											"entries": [
-												"{@b Blackjack Mel}",
-												"(sleazy Queen's Men Lieutenant)",
-												"ㅤ"
-											]
-										},
-										{
-											"type": "item",
-											"entries": [
-												"{@b King Ulrich von Kessel IV}",
-												"(monarch of Drakkenheim, assumed deceased)"
-											]
-										},
-										{
-											"type": "item",
-											"entries": [
-												"{@b Queen-Consort Lenore von Kessel}",
-												"(royal consort, assumed deceased)"
-											]
-										},
-										{
-											"type": "item",
-											"entries": [
-												"{@b Leonard, Katarina, and Eliza von Kessel}",
-												"(royal heirs, fate unknown)"
 											]
 										}
 									]
-								}
-							]
-						},
-						{
-							"type": "entries",
-							"entries": [
+								},
 								{
 									"type": "entries",
 									"name": "Negotiating an Alliance",
 									"page": 14,
 									"entries": [
-										"Despite their conflicts, the faction leaders know they can't achieve their goals on their own. Not only do they seek the aid of the player characters, many factions see the benefits to collaborating with each other. Diplomatic characters could negotiate an alliance, truce, or ceasefire between two (or more) factions. Convincing any two factions to set aside their differences and work together should be difficult, but achievable. In order to broker such a deal, characters will need to demonstrate how the alliance will help both factions achieve their objectives, but also make an appeal to the roleplaying traits, ideals, bonds, and flaws of the factions and their leaders. These tense negotiations can make for some of the most memorable moments in the campaign, so potential alliances are best arranged in dramatic locations such as the faction strongholds and the Cathedral of Saint Vitruvio.", 
-										"The factions have been designed such that a long-term alliance between any two factions is achievable, and a short-term truce involving three is difficult but entirely possible. Countless situations in your campaign may emerge that could cause the factions to re-evaluate their priorities, and clever and convincing players might present compelling arguments. Bear in mind of course, that the factions are composed of people: and people don't always act in logical ways. These alliances are always unstable, however, as each faction presses to have their own goals prioritized. Unless the player characters make an ongoing effort to keep a coalition together, any alliance between factions will inevitably collapse.", 
-										"Factions such as the Amethyst Academy and the Queen's Men may even use alliances as a convenient opportunity to manipulate the player characters and the other factions, and possibly even make a dramatic reversal at a critical moment. Especially cunning characters might help the factions weave such deceptions and plots, resulting in brutal betrayal against an unsuspecting ally which allows the faction to seize full control of Drakkenheim for themselves.", 
+										"Despite their conflicts, the faction leaders know they can't achieve their goals on their own. Not only do they seek the aid of the player characters, many factions see the benefits to collaborating with each other. Diplomatic characters could negotiate an alliance, truce, or ceasefire between two (or more) factions. Convincing any two factions to set aside their differences and work together should be difficult, but achievable. In order to broker such a deal, characters will need to demonstrate how the alliance will help both factions achieve their objectives, but also make an appeal to the roleplaying traits, ideals, bonds, and flaws of the factions and their leaders. These tense negotiations can make for some of the most memorable moments in the campaign, so potential alliances are best arranged in dramatic locations such as the faction strongholds and the Cathedral of Saint Vitruvio.",
+										"The factions have been designed such that a long-term alliance between any two factions is achievable, and a short-term truce involving three is difficult but entirely possible. Countless situations in your campaign may emerge that could cause the factions to re-evaluate their priorities, and clever and convincing players might present compelling arguments. Bear in mind of course, that the factions are composed of people: and people don't always act in logical ways. These alliances are always unstable, however, as each faction presses to have their own goals prioritized. Unless the player characters make an ongoing effort to keep a coalition together, any alliance between factions will inevitably collapse.",
+										"Factions such as the Amethyst Academy and the Queen's Men may even use alliances as a convenient opportunity to manipulate the player characters and the other factions, and possibly even make a dramatic reversal at a critical moment. Especially cunning characters might help the factions weave such deceptions and plots, resulting in brutal betrayal against an unsuspecting ally which allows the faction to seize full control of Drakkenheim for themselves.",
 										"Since the threat of betrayal is so real, player characters who build a coalition between multiple factions may compromise the trust they earn with an individual faction. They won't receive the greatest boons the faction can offer, and faction agents don't trust characters with sensitive information. Faction leaders are wary of double-agents, and would much rather see the player characters make a commitment to them. As a result, the player characters should constantly be called upon to demonstrate their loyalty."
 									]
 								},
@@ -1358,7 +1358,114 @@
 							"name": "Rival Adventurers",
 							"page": 16,
 							"entries": [
-								"Drakkenheim attracts all manner of would-be heroes and fortune-seekers. Characters may often encounter these rival adventurers during the campaign as recurring NPCs, both within the ruins and in Emberwood Village. At any given time, there might be as many as a dozen other groups exploring Drakkenheim, perhaps more."
+								"Drakkenheim attracts all manner of would-be heroes and fortune-seekers. Characters may often encounter these rival adventurers during the campaign as recurring NPCs, both within the ruins and in Emberwood Village. At any given time, there might be as many as a dozen other groups exploring Drakkenheim, perhaps more.",
+								"Rivals may be competitive and quarrelsome, or friendly and sporting. Either way, good rivals spur the characters into action and create unique roleplaying opportunities. You might even invite a player to establish a pre-existing relationship between their character and a rival during character creation. Friendly rival adventurers might interact with characters in the following ways:",
+								{
+									"type": "list",
+									"items": [
+										"Prompt the characters to recount their own stories and deeds",
+										"Share rumours and gossip with the characters",
+										"Suggest the characters visit a specific adventure site or take on a new mission",
+										"Challenge the characters to a contest (such as archery, wrestling, magical displays, drinking, slaying a monster, finding a treasure, or a duel)",
+										"Team up with the characters to take on a difficult objective"
+									]
+								},
+								"Alternatively, some rival adventurers might be more hostile towards the characters:",
+								{
+									"type": "list",
+									"items": [
+										"Trash-talk and humiliate the characters in Emberwood Village",
+										"Belittle the characters' accomplishments and insult their skills",
+										"Complete a quest or explore a location the characters have ignored",
+										"Act as reinforcements for an enemy faction",
+										"Take up a bounty on the characters"
+									]
+								},
+								"The factions often hire adventuring parties to help achieve their goals. If the player characters don't take up a mission or offer, their leaders might turn to rival adventurers instead! It is also possible that rival adventurers could start as a friend or enemy, and end up the opposite!",
+								{
+									"type": "entries",
+									"name": "Rival Adventuring Parties",
+									"page": 16,
+									"entries": [
+										"You can use the sample adventuring parties below, or create one of your own design.",
+										"When creating your own adventuring party, use pre-generated stat blocks from the Core Rules rather than spending time making character sheets for these NPCs like you would a player character. When it comes to making a good rival, interesting roleplaying traits are far more important than game statistics. A rival works well when they reflect the personalities and flaws of the player characters themselves, then exaggerate their best and worst qualities to the extreme while sharing some common ground. Diametrically opposing those traits tends to result in antagonists, not rivals. Flesh out such characters by pulling in one or two roleplaying traits from one of the backgrounds or personal quests presented in this book",
+										{
+											"type": "inset",
+											"entries": [
+												{
+													"type": "quote",
+													"entries": [
+														"My favourite game is to tell a group of adventurers where great treasure in the city is. Frankly, I have no idea where treasure is, but now they will stay out of my way."
+													],
+													"by": "Sebastian Crowe"
+												}
+											]
+										},
+										{
+											"type": "image",
+											"href": {
+												"type": "external",
+												"url": "https://raw.githubusercontent.com/LAHardman/homebrew/dungeonsofdrakkenheim/_img/DD/DD-lock.webp"
+											}
+										},
+										{
+											"type": "entries",
+											"name": "Caspian Expedition",
+											"page": 16,
+											"entries": [
+												"This expedition was dispatched by a Caspian noble house.",
+												{
+													"type": "list",
+													"items": [
+														"Jupiter Jones is a barrel chested human gladiator with a chiseled jaw and herculean features. Though he claims he's adventuring in Drakkenheim to bring glory to his name, he's actually on a personal quest to prove his family's connection to House von Kessel, as he is in fact Queen Lenore's nephew.",
+														"Lemminton Withalf, a greasy, misanthropic, and sniveling gnome bard (use the game statistics for a scoundrel with bard spells instead of wizard spells) serves as herald.",
+														"A personal household guard of a dozen thugs."
+													]
+												}
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Heroic Veterans",
+											"page": 16,
+											"entries": [
+												"This adventuring team has a small reputation in Drakkenheim. Its members include:",
+												{
+													"type": "list",
+													"items": [
+														"Pluto Jackson, a human knight. This brash Caspian prince has come to Drakkenheim ostensibly to slay the greatest monsters in the city to make a name for himself. In truth, he's searching for proof his nephew is a legitimate heir to the throne.",
+														"Veo Sjena, a catfolk urban ranger. This mangy alleycat has survived in Drakkenheim for fifteen years and knows the city better than anyone. She's looking for any sign of her missing father.",
+														"Sebastian Crowe, a half-elf mage. This meddlesome and overconfident Academy dropout is haunted by nightmares of the meteor."
+													]
+												}
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Intrepid Explorers",
+											"page": 16,
+											"entries": [
+												"These longtime friends have been adventuring together for years. They include a berserker, a hedge mage, a veteran, a priest, and a spy."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Foolhardy Rookies",
+											"page": 16,
+											"entries": [
+												"These new arrivals might not last a day in Drakkenheim, but they've got spunk! The group consists of an acolyte, a guard, a noble, and a scout."
+											]
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Starting the Campaign",
+							"page": 17,
+							"entries": [
+								"You can begin characters at 1st or 3rd level. We strongly recommend holding a Session Zero before starting the campaign. During this special session, make sure you achieve the following:"
 							]
 						}
 					]
