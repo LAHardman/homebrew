@@ -691,7 +691,7 @@
 											"name": "Hooded Lanterns",
 											"page": 5,
 											"entries": [
-												"Formally known as the 4th Provisional Expeditionary Force to Reclaim the Capital, the {@book Hooded Lanterns|DD|2|The Hooded Lanterns} are an irregular military drawn up from veterans of the Civil War and remnants of the old Drakkenheim City Watch. Led by the dour {@b {@book Lord Commander Elias Drexel|DD|11|Lord Commander Elias Drexel}}, they wage a guerrilla war against the monsters, bandits, and scavengers who have taken root in their nation's capital. Each has pledged their swords and lives to rebuild Drakkenheim and restore the Realm of Westemär. Several noble houses have set aside their feuds to support the Hooded Lanterns' efforts. These families believe once the city is restored, evidence will emerge revealing the true heir to the throne of Drakkenheim... or enable a cunning house to seize the crown."
+												"Formally known as the 4th Provisional Expeditionary Force to Reclaim the Capital, the {@book Hooded Lanterns|DD|2|The Hooded Lanterns} are an irregular military drawn up from veterans of the Civil War and remnants of the old Drakkenheim City Watch. Led by the dour {@b {@creature Lord Commander Elias Drexel|DD}}, they wage a guerrilla war against the monsters, bandits, and scavengers who have taken root in their nation's capital. Each has pledged their swords and lives to rebuild Drakkenheim and restore the Realm of Westemär. Several noble houses have set aside their feuds to support the Hooded Lanterns' efforts. These families believe once the city is restored, evidence will emerge revealing the true heir to the throne of Drakkenheim... or enable a cunning house to seize the crown."
 											]
 										},
 										{
@@ -699,7 +699,7 @@
 											"name": "Queen's Men",
 											"page": 5,
 											"entries": [
-												"The {@book Queen's Men|DD|2|The Queen's Men} are a loose affiliation between a hundred gangs of brigands, outlaws, and scoundrels, all of whom owe fealty to the enigmatic {@b {@book Queen of Thieves|DD|11|Queen of Thieves}}. These reprobates prey upon the pilgrims, prospectors, and explorers drawn to the city, extort and rob adventurers, smuggle delerium to disreputable clients in distant lands, and plunder the fantastic treasures and incredible wealth left behind in the city. The {@b {@book Queen of Thieves|DD|11|Queen of Thieves}} dreams of building an influential and powerful criminal empire forged in the anarchy and lawlessness of the ruins, and conspires against the other factions at every turn."
+												"The {@book Queen's Men|DD|2|The Queen's Men} are a loose affiliation between a hundred gangs of brigands, outlaws, and scoundrels, all of whom owe fealty to the enigmatic {@b {@creature Queen of Thieves|DD}}. These reprobates prey upon the pilgrims, prospectors, and explorers drawn to the city, extort and rob adventurers, smuggle delerium to disreputable clients in distant lands, and plunder the fantastic treasures and incredible wealth left behind in the city. The {@b {@creature Queen of Thieves|DD}} dreams of building an influential and powerful criminal empire forged in the anarchy and lawlessness of the ruins, and conspires against the other factions at every turn."
 											]
 										},
 										{
@@ -707,7 +707,7 @@
 											"name": "Knights of the Silver Order",
 											"page": 5,
 											"entries": [
-												"The {@book Knights of the Silver Order|DD|2|The Knights of the Silver Order} are an organization of oathbound paladins and devout warriors sworn to combat supernatural evil, dark magic, and otherworldly incursions. The questing knights normally travel the realms in small bands and companies, and adhere to the {@book Faith of the Sacred Flame|DD|14|Faith and Religions}, the dominant religion across the continent. They believe delerium is a contaminating blight borne of the darkest chaos, and have resolved to annihilate the corrupted crystals, slay every monster it has created, and hunt down diabolical mages who would wield its power to work evil magic. Now an entire regiment has been dispatched to Drakkenheim to carry out this righteous task, led by {@b {@book Knight-Captain Theodore Marshal|DD|11|Knight-Captain Theodore Marshal}}."
+												"The {@book Knights of the Silver Order|DD|2|The Knights of the Silver Order} are an organization of oathbound paladins and devout warriors sworn to combat supernatural evil, dark magic, and otherworldly incursions. The questing knights normally travel the realms in small bands and companies, and adhere to the {@book Faith of the Sacred Flame|DD|14|Faith and Religions}, the dominant religion across the continent. They believe delerium is a contaminating blight borne of the darkest chaos, and have resolved to annihilate the corrupted crystals, slay every monster it has created, and hunt down diabolical mages who would wield its power to work evil magic. Now an entire regiment has been dispatched to Drakkenheim to carry out this righteous task, led by {@b {@creature Knight-Captain Theodore Marshal|DD}}."
 											]
 										},
 										{
@@ -715,7 +715,7 @@
 											"name": "Followers of the Falling Fire",
 											"page": 5,
 											"entries": [
-												"The annihilation of Drakkenheim incited a serious religious schism within the {@book Faith of the Sacred Flame|DD|14|Faith and Religions}. A new sect has emerged known as the {@book Followers of the Falling Fire|DD|2|The Followers of the Falling Fire}, who adhere to the prophecies of former Flamekeeper {@b {@book Lucretia Mathias|DD|11|Lucretia Mathias}}. She attests that delerium is a divine gift, not a blight, and that these sacred stones will offer salvation against a greater darkness yet to come. The mainstream clergy have excommunicated {@b {@book Lucretia Mathias|DD|11|Lucretia Mathias}} and branded her followers as an insane cult with heretical beliefs and blasphemous practices. Even still, masses of devout commonfolk now embark on a dangerous pilgrimage to Drakkenheim to take their place in a divine plan."
+												"The annihilation of Drakkenheim incited a serious religious schism within the {@book Faith of the Sacred Flame|DD|14|Faith and Religions}. A new sect has emerged known as the {@book Followers of the Falling Fire|DD|2|The Followers of the Falling Fire}, who adhere to the prophecies of former Flamekeeper {@b {@creature Lucretia Mathias|DD}}. She attests that delerium is a divine gift, not a blight, and that these sacred stones will offer salvation against a greater darkness yet to come. The mainstream clergy have excommunicated {@b {@creature Lucretia Mathias|DD}} and branded her followers as an insane cult with heretical beliefs and blasphemous practices. Even still, masses of devout commonfolk now embark on a dangerous pilgrimage to Drakkenheim to take their place in a divine plan."
 											]
 										},
 										{
@@ -723,7 +723,7 @@
 											"name": "Amethyst Academy",
 											"page": 5,
 											"entries": [
-												"The {@book Amethyst Academy|DD|2|The Amethyst Academy} is a magical school for sorcerers and wizards, where students learn magic in remote castles and secluded universities. Directed by a shadowy cabal of powerful archmages, the Academy also operates an enterprising mage guild that controls the manufacture of magical wares, and orchestrates an influential arcane syndicate that provides occult counsel to the nobility of the continent. However, the Academy was dealt a terrible blow following Drakkenheim's destruction, as the city was home to their greatest stronghold: the {@book Inscrutable Tower|DD|7|Inscrutable Tower}. {@b {@book Archwizard Eldrick Runeweaver|DD|11|Eldrick Runeweaver}} leads the Academy's efforts to access the tower and safeguard the secret lore within. Meanwhile, their survey teams conduct ongoing research regarding delerium's supernatural qualities and unknown dangers. The mages plan to harness the crystals' vast energies to craft magical items and power new arcane spells."
+												"The {@book Amethyst Academy|DD|2|The Amethyst Academy} is a magical school for sorcerers and wizards, where students learn magic in remote castles and secluded universities. Directed by a shadowy cabal of powerful archmages, the Academy also operates an enterprising mage guild that controls the manufacture of magical wares, and orchestrates an influential arcane syndicate that provides occult counsel to the nobility of the continent. However, the Academy was dealt a terrible blow following Drakkenheim's destruction, as the city was home to their greatest stronghold: the {@book Inscrutable Tower|DD|7|Inscrutable Tower}. {@b {@creature Eldrick Runeweaver|DD|Archwizard Eldrick Runeweaver}} leads the Academy's efforts to access the tower and safeguard the secret lore within. Meanwhile, their survey teams conduct ongoing research regarding delerium's supernatural qualities and unknown dangers. The mages plan to harness the crystals' vast energies to craft magical items and power new arcane spells."
 											]
 										}
 									]
@@ -1095,9 +1095,9 @@
 											"items": [
 												"{@b Chancellor's Crest.} {@book Balrin Barthes|DD|6|Old Town Cistern} failed to escape Drakkenheim, and was transformed into a monster. This mutated wretch still wears the Chancellor's Crest, and serves the horrific Duchess deep in its lair below the cistern.",
 												"{@b Inscrutable Staff.} Adriana Modiera, the Archmage of Drakkenheim, died within the {@book Inscrutable Tower|DD|7|Inscrutable Tower}. This mighty magical staff remains there today. Traditionally, the {@book Amethyst Academy|DD|2|The Amethyst Academy} has the right to determine who holds this staff.",
-												"{@b Lord Commander's Badge.} {@book Elias Drexel|DD|11|Lord Commander Elias Drexel} survived the fall of Drakkenheim and spent years fighting in the Civil War before taking charge of the {@book Hooded Lanterns|DD|2|The Hooded Lanterns}. He still holds his original badge of office.",
+												"{@b Lord Commander's Badge.} {@book Lord Commander Elias Drexel|DD|Elias Drexel} survived the fall of Drakkenheim and spent years fighting in the Civil War before taking charge of the {@book Hooded Lanterns|DD|2|The Hooded Lanterns}. He still holds his original badge of office.",
 												"{@b Phylactery of Saint Vitruvio.} High Flamekeeper Gregora led the faithful in the {@book Cathedral of Saint Vitruvio|DD|6|Saint Vitruvio's Cathedral}. Her true fate is unknown, but now a monstrous garmyr priest carries the phylactery in the cathedral. It is traditionally entrusted to the highest ranking cleric of the {@book Sacred Flame|DD|2|Knights of the Silver Order} in Drakkenheim, as this item is also one of the {@i Relics of Saint Vitruvio}.",
-												"{@b Spymaster's Signet.} Spymaster Magdalena Vasari was a half-elf assassin. A loyal operative through-and-through, Vasari took advantage of her assumed death to secretly seek any surviving heirs of the royal family during the Civil War. She may have succeeded had she not been killed and her signet ring stolen by the {@book Queen of Thieves|DD|11|Queen of Thieves} several years ago.",
+												"{@b Spymaster's Signet.} Spymaster Magdalena Vasari was a half-elf assassin. A loyal operative through-and-through, Vasari took advantage of her assumed death to secretly seek any surviving heirs of the royal family during the Civil War. She may have succeeded had she not been killed and her signet ring stolen by the {@creature Queen of Thieves|DD} several years ago.",
 												"{@b Steward's Seal.} Johann Eisner, the royal steward, became trapped in Castle Drakken after failing to rescue Ulrich IV. However, he entrusted his young daughter with hiding his seal as a precaution for this exact predicament. While her fate is now unknown, the seal is now amongst the treasures of the Crimson Countess in the {@book Cosmological Clocktower|DD|6|Cosmological Clocktower}."
 											]
 										}
@@ -1119,17 +1119,246 @@
 										"{@b Find a Cure.} The character's relative may be found in an area of the Deep Haze: near the {@book Inscrutable Tower|DD|7|Inscrutable Tower}, {@book Queen's Park|DD|6|Queen's Park}, {@book the crater|DD|6|The Crater}, or perhaps in thrall to the {@book Duchess|DD|6|Old Town Cistern} or the {@book Pale Man|DD|6|Kleinberg Estate}. Unfortunately, they are indeed mad, and once found resist capture and constantly try to escape. A monstrous transformation can be reversed in three ways: using a {@i {@spell wish}} spell, by Lucretia Mathias performing a divine intervention, or by researching the {@i {@spell siphon contamination|DD}} spell.",
 										"{@b Claim the Throne.} This quest ties the character strongly to a central conflict in the campaign. A fun twist is introducing a {@book rival adventurer|DD|1|Running Rival Adventurers} with an equally valid claim. Consult that section for more details. This character could even be one of the children of Ulrich IV.",
 										"{@b An Apocalyptic Vision.} This character will need to seek out the means to survive the most contaminated area in the city. Once they reach the heart of {@book the crater|DD|6|The Crater}, the character has another apocalyptic vision when they touch the {@book Delerium Heart|DD|6|The Crater|Area Details}. The character must now decide what they will do to save the world.",
-										"{@b Faction Aspirant.} Advancement in a faction requires a full commitment from the character, exclusive of any other faction. Achieving this quest happens when a faction's leader regards the character as a capable and trusted confidant, and appoints them as their right-hand lieutenant. The most challenging aspect of this quest are the conflicts of interest it may cause with the other player characters, but embrace this conflict as a sticking point between the characters!",
-										"{@b A Score to Settle.} This is a very difficult personal quest, but a straightforward one. The faction leaders are all well-protected and formidable in their own right, though Elias Drexel and Theodore Marshal are significantly easier to encounter in person. Characters targeting the Queen of Thieves or Eldrick Runeweaver are in for a vexing challenge!",
-										"{@b Arcane Secrets.} These spells can be learned from Oscar Yoren, the Pale Man, Ryan Greymere and spellbooks contained within the Inscrutable Tower; the character must seek knowledge from each. Collecting these spells raises the ire of the Amethyst Academy, who wish to keep knowledge of this magic secret. Characters can complete this quest by researching the contaminated power spell.",
-										"{@b The Blighted Landscape.} After visiting each location, the character can research the aqua expurgo potion, neutralizing field, and contamination immunity spells respectively, even if they haven't met the other prerequisites to research these spells.",
-										"{@b A Family Matter.} Captive or convert, the relative is found at a faction stronghold. They could even be one of the faction lieutenants! It is difficult to convince them to leave; they have to see the faction do something horrible with their own eyes.",
-										"{@b Overwhelming Debt.} Rival adventurers, a Queen's Men strike team, or an assassin might be pursuing a bounty on the character. You may want to have the Queen of Thieves or the Amethyst Academy “acquire” the character's debt and use that as leverage over them!",
-										"{@b A Lost Heirloom.} Any rare magic item is an appropriate heirloom, and you can choose any location in the city where the item is lost, although Reed Manor, the Kleinberg Estate, and Slaughterstone Square are good possibilities. If you'd really like to create complications, this item could be stolen by the Queen of Thieves or a rival adventurer, or could even be one of the {@i Seals of Drakkenheim.}",
+										"{@b Faction Aspirant.} Advancement in a {@book faction|DD|2} requires a full commitment from the character, exclusive of any other faction. Achieving this quest happens when a faction's leader regards the character as a capable and trusted confidant, and appoints them as their right-hand lieutenant. The most challenging aspect of this quest are the conflicts of interest it may cause with the other player characters, but embrace this conflict as a sticking point between the characters!",
+										"{@b A Score to Settle.} This is a very difficult personal quest, but a straightforward one. The {@book faction leaders|DD|2} are all well-protected and formidable in their own right, though {@creature Lord Commander Elias Drexel|DD|Elias Drexel} and {@book Knight-Captain Theodore Marshal|DD|Theodore Marshal} are significantly easier to encounter in person. Characters targeting the {@creature Queen of Thieves|DD} or {@creature Eldrick Runeweaver|DD} are in for a vexing challenge!",
+										"{@b Arcane Secrets.} These spells can be learned from {@book Oscar Yoren|DD|5|Reed Manor}, the {@book Pale Man|DD|5|Kleinberg Estate}, {@book Ryan Greymere|DD|5|Rose Theatre} and {@item spellbook|PHB|spellbooks} contained within the {@book Inscrutable Tower|DD|7|Inscrutable Tower}; the character must seek knowledge from each. Collecting these spells raises the ire of the {@book Amethyst Academy|DD|2|The Amethyst Academy}, who wish to keep knowledge of this magic secret. Characters can complete this quest by researching the {@i {@spell contaminated power|DD}} spell.",
+										"{@b The Blighted Landscape.} After visiting each location, the character can research the {@i {@item aqua expurgo potion|DD}}, {@i {@spell neutralizing field|DD}}, and {@i {@spell contamination immunity|DD}} spells respectively, even if they haven't met the other prerequisites to research these spells.",
+										"{@b A Family Matter.} Captive or convert, the relative is found at a {@book faction stronghold|DD|7}. They could even be one of the faction lieutenants! It is difficult to convince them to leave; they have to see the faction do something horrible with their own eyes.",
+										"{@b Overwhelming Debt.} {@book Rival adventurers|DD|1|Rival Adventurers}, a {@book Queen's Men|DD|2|Queen's Men} strike team, or an assassin might be pursuing a bounty on the character. You may want to have the {@creature Queen of Thieves|DD} or the {@book Amethyst Academy|DD|2|The Amethyst Academy} “acquire” the character's debt and use that as leverage over them!",
+										"{@b A Lost Heirloom.} Any rare magic item is an appropriate heirloom, and you can choose any location in the city where the item is lost, although {@book Reed Manor|DD|5|Reed Manor}, the {@book Kleinberg Estate|DD|5|Kleinberg Estate}, and {@book Slaughterstone Square|DD|6|Slaughterstone Square} are good possibilities. If you'd really like to create complications, this item could be stolen by the {@creature Queen of Thieves} of or a {@book rival adventurer|DD|1|Rival Adventurers}, or could even be one of the {@i {@book Seals of Drakkenheim|DD|1|Fall of House von Kessel|The Seals of Drakkenheim}}.",
 										"{@b Personal Pilgrimage.} The ritual the character wishes to perform at each location need not be simple. Instead, it might be a time-consuming process that requires a rare offering and takes several hours to complete, or perhaps can only be performed at a certain time of day (either dawn or dusk). As such, the character will need the protection and support of their allies to stay safe during the rite.",
-										"{@b Monster Slayer.} Suitable foes might include the Rat Prince, the Crimson Countess, the Duchess, the Lord of the Feast, the Prince of Carnage, a grotesque gargant, or a crater wurm."
+										"{@b Monster Slayer.} Suitable foes might include the {@creature Rat Prince|DD}, the {@creature Crimson Countess|DD}, the {@book Duchess|DD|6|Interactions}, the {@creature Lord of the Feast|DD}, the {@book Prince of Carnage|DD|8|Castle Grounds}, a {@book grotesque gargant|DD|10|Monster Modifications}, or a {@book crater wurm|DD|10|Monster Modifications}."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Finishing a Personal Quest",
+									"page": 13,
+									"entries": [
+										"Upon completing a personal quest, a player character gains rewards as described in {@book chapter 1|DD|0|Character Creation}. In addition, you should reward each character in the party experience points based on the advancement method you are using",
+										"At your option, once a character completes their personal quest, you might work with the player to create a follow-up personal quest for them to reflect the character's ongoing and evolving story. Furthermore, if conditions emerge where a character either can't complete or decides to abandon their personal quest, you should work with the player to develop a new one."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Creating a Custom Personal Quest",
+									"page": 13,
+									"entries": [
+										"When designing a custom personal quest, keep the following principles in mind:",
+										{
+											"type": "list",
+											"items": [
+												"The quest should require characters to explore one or more locations within the {@book Inner City ruins|DD|6}. A character shouldn't be able to complete their personal quest too early. Conversely, a personal quest involving {@book Castle Drakken|8} likely can't be completed until late in the campaign.",
+												"It should present some sort of complication with one of the factions, or perhaps require the characters to seek help from the faction to complete their quest.",
+												"The quest should be specific and achievable, and not related to character advancement (such as reaching 10th level or taking a specific feat).",
+												"Be careful about using a “ticking clock” for a personal quest. While this can introduce a compelling complication, focus on long-term goals rather than extremely urgent matters."
+											]
+										},
+										"Players often suggest personal quests involving missing persons, lost objects, or revenge. Many example personal quests provided already cover such motivations, such as “A Family Matter”, “A Lost Heirloom”, and “A Score to Settle”. Ask players to consider these options first. Perhaps their idea can be easily adapted to work with one of these quests (or vice versa)."
 									]
 								}
+							]
+						},
+						{
+							"type": "image",
+							"href": {
+								"type": "external",
+								"url": "https://raw.githubusercontent.com/LAHardman/homebrew/dungeonsofdrakkenheim/_img/DD/DD-running.webp"
+							}
+						},
+						{
+							"type": "list",
+							"style": "list-no-bullets",
+							"columns": 2,
+							"items": [
+								{
+									"type": "entries",
+									"name": "Running the Factions",
+									"page": 14,
+									"entries": [
+										"Five factions are struggling to control the ruins of Drakkenheim: {@book the Hooded Lanterns|DD|2|The Hooded Lanterns}, the {@book Queen's Men|DD|2|Queen's Men}, the {@book Knights of the Silver Order|DD|2|Knights of the Silver Order}, {@book the Followers of the Falling Fire|DD|2|The Followers of the Falling Fire}, and {@book the Amethyst Academy|DD|2|The Amethyst Academy}. Each is commanded by a prominent faction leader, but the faction as a whole behaves like a major recurring NPC, except they are composed of many individuals working together who share the same ideology, goals, methods, and resources. {@book Chapter 3: Factions|DD|2} describes the background, objectives, roleplaying traits, major NPCs, and assets of each faction. Using this information, it's up to you to determine how the factions might help or hinder the player characters during their adventures in Drakkenheim.",
+										"Rather than uniting the factions as one against a common foe, the player characters must navigate a fractious web of intrigue, negotiation, sabotage, and violent conflict if they wish to uncover the greatest treasures and secrets in Drakkenheim. Their relationships with each faction will naturally develop as a consequence of the character's choices, but it's ultimately up to them to decide who they want to join and who they will oppose. Thus, each individual faction might become a supportive patron, fierce competitor, close ally, bitter enemy, or anything in between.",
+										"Exploring the most dangerous locations in Drakkenheim is extraordinarily difficult without gaining the support (or inciting the ire) of one or more factions. Correspondingly, the factions need the player characters' help to accomplish their own goals in the city, and offer rewards to their allies and assistance with the characters' personal quests. Conversely, factions that become antagonistic create dynamic problems and new complications throughout the campaign when they use their resources against the characters. Either way, the factions are best played in a reactive manner. Their leaders make firm demands when characters try to negotiate, orchestrate counterstrikes when characters foil their plans, and conduct sabotage when characters oppose their goals.",
+										"Eventually, these interactions may blossom into a full-scale hostility between the factions. Once this occurs, aim to keep each faction in play as long as possible. Don't be afraid of letting the players get in over their heads if they make enemies with more than one faction, either. Your players will find surprising ways to foil the factions, and develop cunning plans when they collaborate with them. Embrace their creativity by responding with new challenges, and rewarding players when they succeed by having their allies recognize their accomplishments. The factions are equipped with the tools to help you escalate tension and raise the stakes of the conflict in interesting ways.",
+										"Many adventure sites provide hooks and missions connected to the factions you may use to prompt the characters to visit each area. Each location also details how the factions could respond to possible events and outcomes that may occur."
+									]
+								},
+								{
+									"type": "inset",
+									"entries": [
+										{
+											"type": "section",
+											"entries": [
+												{
+													"type": "entries",
+													"name": "Cast of Characters"
+												}
+											]
+										},	
+										{
+											"type": "item",
+											"entries": [
+												"{@b Lord Commander Elias Drexel}",
+												"(grim leader of the Hooded Lanterns)"
+											]
+										},
+										{
+											"type": "item",
+											"entries": [
+												"{@b Captain Ansom Lang}",
+												"(determined Hooded Lanterns Lieutenant)"
+											]
+										},
+										{
+											"type": "item",
+											"entries": [
+												"{@b Lieutenant Petra Lang}",
+												"(hopeful Hooded Lanterns Lieutenant)",
+												"ㅤ"
+											]
+										},
+										{
+											"type": "item",
+											"entries": [
+												"{@b Knight-Captain Theodore Marshal}",
+												"(valiant leader of the Silver Order)"
+											]
+										},
+										{
+											"type": "item",
+											"entries": [
+												"{@b High Flamekeeper Ophelia Reed}",
+												"(devoted Silver Order Lieutenant)"
+											]
+										},
+										{
+											"type": "item",
+											"entries": [
+												"{@b High Flamekeeper Ophelia Reed}",
+												"(devoted Silver Order Lieutenant)",
+												"ㅤ"
+											]
+										},
+										{
+											"type": "item",
+											"entries": [
+												"{@b Archwizard Eldrick Runeweaver}",
+												"(calculating leader of the Amethyst Academy)"
+											]
+										},
+										{
+											"type": "item",
+											"entries": [
+												"{@b River}",
+												"(pragmatic Amethyst Academy Lieutenant)"
+											]
+										},
+										{
+											"type": "item",
+											"entries": [
+												"{@b River}",
+												"(pragmatic Amethyst Academy Lieutenant)",
+												"ㅤ"
+											]
+										},
+										{
+											"type": "item",
+											"entries": [
+												"{@b Lucretia Mathias}",
+												"(mystical prophet of the Falling Fire)"
+											]
+										},
+										{
+											"type": "item",
+											"entries": [
+												"{@b Nathaniel Flint}",
+												"(enthusiastic Falling Fire Lieutenant)",
+												"ㅤ"
+											]
+										},
+										{
+											"type": "item",
+											"entries": [
+												"{@b Queen of Thieves}",
+												"(enigmatic criminal mastermind)"
+											]
+										},
+										{
+											"type": "item",
+											"entries": [
+												"{@b Blackjack Mel}",
+												"(sleazy Queen's Men Lieutenant)",
+												"ㅤ"
+											]
+										},
+										{
+											"type": "item",
+											"entries": [
+												"{@b King Ulrich von Kessel IV}",
+												"(monarch of Drakkenheim, assumed deceased)"
+											]
+										},
+										{
+											"type": "item",
+											"entries": [
+												"{@b Queen-Consort Lenore von Kessel}",
+												"(royal consort, assumed deceased)"
+											]
+										},
+										{
+											"type": "item",
+											"entries": [
+												"{@b Leonard, Katarina, and Eliza von Kessel}",
+												"(royal heirs, fate unknown)"
+											]
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "entries",
+							"entries": [
+								{
+									"type": "entries",
+									"name": "Negotiating an Alliance",
+									"page": 14,
+									"entries": [
+										"Despite their conflicts, the faction leaders know they can't achieve their goals on their own. Not only do they seek the aid of the player characters, many factions see the benefits to collaborating with each other. Diplomatic characters could negotiate an alliance, truce, or ceasefire between two (or more) factions. Convincing any two factions to set aside their differences and work together should be difficult, but achievable. In order to broker such a deal, characters will need to demonstrate how the alliance will help both factions achieve their objectives, but also make an appeal to the roleplaying traits, ideals, bonds, and flaws of the factions and their leaders. These tense negotiations can make for some of the most memorable moments in the campaign, so potential alliances are best arranged in dramatic locations such as the faction strongholds and the Cathedral of Saint Vitruvio.", 
+										"The factions have been designed such that a long-term alliance between any two factions is achievable, and a short-term truce involving three is difficult but entirely possible. Countless situations in your campaign may emerge that could cause the factions to re-evaluate their priorities, and clever and convincing players might present compelling arguments. Bear in mind of course, that the factions are composed of people: and people don't always act in logical ways. These alliances are always unstable, however, as each faction presses to have their own goals prioritized. Unless the player characters make an ongoing effort to keep a coalition together, any alliance between factions will inevitably collapse.", 
+										"Factions such as the Amethyst Academy and the Queen's Men may even use alliances as a convenient opportunity to manipulate the player characters and the other factions, and possibly even make a dramatic reversal at a critical moment. Especially cunning characters might help the factions weave such deceptions and plots, resulting in brutal betrayal against an unsuspecting ally which allows the faction to seize full control of Drakkenheim for themselves.", 
+										"Since the threat of betrayal is so real, player characters who build a coalition between multiple factions may compromise the trust they earn with an individual faction. They won't receive the greatest boons the faction can offer, and faction agents don't trust characters with sensitive information. Faction leaders are wary of double-agents, and would much rather see the player characters make a commitment to them. As a result, the player characters should constantly be called upon to demonstrate their loyalty."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Resolving the Conflict",
+									"page": 15,
+									"entries": [
+										"Unfortunately for the player characters, discovering the full properties of delerium and facts regarding the meteor's origins will not unite the factions. Instead, these revelations will drive further wedges between the fractious groups since they deeply disagree on the best way to address the problem. Given that The Haze threatens to overtake the entire world, it may at first appear the Silver Order is completely correct that the crystals must be destroyed. Throughout the campaign however, the feasibility of accomplishing such a task should be consistently cast in doubt. You should strive to contrast this viewpoint against the rational yet questionable stance of the Amethyst Academy which insists arcane means may harness delerium to prevent further catastrophe, and the zealous and apocalyptic prophecies of the Followers of the Falling Fire. Whenever it seems like the players have made up their minds, rival factions should present a gnawing sense that some alternative might still be possible. You should avoid presenting any “correct” answer: It's up to the characters to piece it all together, draw their own conclusions, and decide how to act.",
+										"As such, there is no fixed resolution to the faction conflict. By the end of the campaign, several factions could be routed from Drakkenheim entirely, their leaders slain and strongholds toppled. While a showdown in Castle Drakken is inevitable, who exactly is present for that battle and the outcomes that may arise are unforeseeable. Chapter 10: The Fate of Drakkenheim describes a few possibilities."
+									]
+								},
+								{
+									"type": "inset",
+									"entries": [
+										{
+											"type": "quote",
+											"entries": [
+												"A lot of people seem hopeful to find the royal family alive in the city, as if that's going to fix everything. First off, they weren't all that great, second of all, the chances they are alive are.... dismal."
+											],
+											"by": "Sebastian Crowe"
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Rival Adventurers",
+							"page": 16,
+							"entries": [
+								"Drakkenheim attracts all manner of would-be heroes and fortune-seekers. Characters may often encounter these rival adventurers during the campaign as recurring NPCs, both within the ruins and in Emberwood Village. At any given time, there might be as many as a dozen other groups exploring Drakkenheim, perhaps more."
 							]
 						}
 					]
